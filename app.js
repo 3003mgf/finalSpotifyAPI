@@ -2396,6 +2396,7 @@ app.get("/albums", (req, res) => {
                 "tracks": [
                     {
                         "trackName": "El Amor Después del Amor - EADDA9223",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Fito+Paez+++El+Amor+Despu%C3%A9s+del+Amor+++EADDA9223+(Official+Audio.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/71850441ad0f31d3f61ba58046d3fe742e77a105?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:47JxXxjwFwLLiWDAZr1l90",
                         "artists": [
@@ -2414,6 +2415,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Dos Días en la Vida - EADDA9223 (feat. Lali & Nicki Nicole)",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Fito+Paez+++Dos+D%C3%ADas+en+la+Vida+++EADDA9223+(Official+Audio)+ft+Lali%2C+Nicki+Nicol.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/329aefa2adff1b803abce6f74b28616c9758aeea?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4oDx5VoqSQJCduO5J5A8MB",
                         "artists": [
@@ -2453,6 +2455,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "La Verónica - EADDA9223 (feat. NATHY PELUSO)",
                         "trackPreview": "https://p.scdn.co/mp3-preview/0d6ff0f40715e3b8dc657fb631fe6c961dfd6028?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Fito+Paez+++La+Ver%C3%B3nica+++EADDA9223+(Official+Audio)+ft+NATHY+PELUS.mp3",
                         "uri": "spotify:track:3jlqMT67KiH9NxOOw5rUGt",
                         "artists": [
                             {
@@ -2480,6 +2483,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Tráfico por Katmandú - EADDA9223 (feat. Elvis Costello)",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Fito+Paez+++Tr%C3%A1fico+por+Katmand%C3%BA+++EADDA9223+(Official+Audio)+ft+Elvis+Costell.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/31c95e7019dc22adcd867b8e1e016de907c9cf3d?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5uA7DFX95p3k7Mx4CABBI5",
                         "artists": [
@@ -2508,6 +2512,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Pétalo de Sal - EADDA9223 (feat. Chico Buarque)",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Fito+Paez+++P%C3%A9talo+de+Sal+++EADDA9223+(Official+Audio)+ft+Chico+Buarqu.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/8041303b1f7e9f8b1957a5459a7366b5ae75883d?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:10jLF2TNZkGFS6kmvvnCh9",
                         "artists": [
@@ -2536,6 +2541,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Sasha, Sissi y el Círculo de Baba - EADDA9223 (feat. Mon Laferte)",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Sasha%2C+Sissi+y+el+C%C3%ADrculo+de+Baba+++EADDA9223+(Official+Lyric+Video.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/9eefb2198cf2d4f221e13dc6b90b0a368f4b2e77?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0HdRf23VtIRpUdHH3mZc3L",
                         "artists": [
@@ -2564,6 +2570,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Un Vestido y un Amor - EADDA9223 (feat. Marisa Monte)",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Fito+Paez+++Un+Vestido+y+un+Amor+++EADDA9223+(Official+Audio)+ft+Marisa+Mont.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/5d5bb1f15381ae7fc2c9c99535a38f9de4af2f16?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1lKN3Es7T2lokUPXyS4sGV",
                         "artists": [
@@ -2592,6 +2599,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Tumbas de la Gloria - EADDA9223 (feat. María Castillo de Lima)",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Fito+Paez+++Tumbas+de+la+Gloria+++EADDA9223+(Official+Audio)+ft+Mar%C3%ADa+Castillo+de+Lim.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/aea54cd2b7c890bb6e830120fefdf5e1cf5dfbff?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7GK57xRsmt90NoWrlydkhN",
                         "artists": [
@@ -2620,6 +2628,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "La Rueda Mágica - EADDA9223 (feat. Andrés Calamaro & Conociendo Rusia)",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/La+Rueda+M%C3%A1gica+++EADDA9223+(Official+Audio.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/4876b908db005eab715726ee55c9af490c6ebfbf?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:050rSCLSxQfqh0M9y9dID7",
                         "artists": [
@@ -2658,6 +2667,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Creo - EADDA9223",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Fito+Paez+++Creo+++EADDA9223+(Official+Audio.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/48ba6bb883729a91d216fd2d4cbfeabf98c17e2e?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5xJfse26NDl4cQnvcegf1G",
                         "artists": [
@@ -2695,7 +2705,8 @@ app.get("/albums", (req, res) => {
                 "id": "04x545owsC3bnx17iQdnMj",
                 "tracks": [
                     {
-                        "trackName": "Abismo",
+                        "trackName": "El Abismo",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/El+Abismo+++Alonso+del+R%C3%ADo+(Letra.mp3",
                         "trackPreview": null,
                         "uri": "spotify:track:0qcp5VoAsGShsuJdXev9hf",
                         "artists": [
@@ -2714,6 +2725,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Una Opción",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/CRO+++Una+Opci%C3%B3n+(Video+Oficial.mp3",
                         "trackPreview": null,
                         "uri": "spotify:track:1s61liQ4rajg60c3EMUugB",
                         "artists": [
@@ -2732,7 +2744,9 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Silencio",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/CRO+++Silencio+(Video+Oficial.mp3",
                         "trackPreview": null,
+                        "trackFull": "",
                         "uri": "spotify:track:1FEipDuSRWcomxjMY4tEYt",
                         "artists": [
                             {
@@ -2750,6 +2764,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Temor",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/CRO+++Temor+(Video+Oficial%5B2%5D.mp3",
                         "trackPreview": null,
                         "uri": "spotify:track:0WzdhKUfEoeIP8jzrTtLSe",
                         "artists": [
@@ -2768,6 +2783,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Yendo Hacia Tí",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/CRO+++Yendo+Hacia+Ti+(Visualizer.mp3",
                         "trackPreview": null,
                         "uri": "spotify:track:55JHECDH9MBGpkWtfI1MBh",
                         "artists": [
@@ -2786,6 +2802,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Encontrándote",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/CRO+++Encontr%C3%A1ndote+(Visualizer.mp3",
                         "trackPreview": null,
                         "uri": "spotify:track:4BomFhepIWf4HTiAQrgnKJ",
                         "artists": [
@@ -2804,6 +2821,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Dame Rock",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/CRO+++Dame+Rock+(Video+Oficial.mp3",
                         "trackPreview": null,
                         "uri": "spotify:track:5idUaRJBOn7bSYjP6B7PcZ",
                         "artists": [
@@ -2822,6 +2840,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "A Tu Manera",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/CRO+++A+Tu+Manera+(Visualizer.mp3",
                         "trackPreview": null,
                         "uri": "spotify:track:23dQ2uqLfk4z8aJUwwfnms",
                         "artists": [
@@ -2860,6 +2879,7 @@ app.get("/albums", (req, res) => {
                 "tracks": [
                     {
                         "trackName": "Nuevo Comienzo",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++Nuevo+Comienz.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/8f32ffe4c551e373b35733015b49e505aab3b9e3?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6b2Dw4kSKnmWMyiBXyRX2e",
                         "artists": [
@@ -2878,6 +2898,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "VOID",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++VOID+(Video+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/2384b446e0f5b8e649b68af3eb327c5918b7a6b4?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7ezLEpE3Q50zpVARzgA00f",
                         "artists": [
@@ -2896,6 +2917,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Las Flores Sangran",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++Las+Flores+Sangran+(Video+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/7b6a1ab4eecfb3ad002f4dfecb3c9fd0aea7d391?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5tLK2Wfj8vgyb1ErlftKYL",
                         "artists": [
@@ -2914,6 +2936,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Salto al Espacio",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++Salto+al+Espacio+(Audio+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/e82308e43f7dac129b88d2a3f895798251011b63?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:3Fo2IQT0sPeM5G0ccG5eDH",
                         "artists": [
@@ -2932,6 +2955,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "TRAS",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++TRAS+(Audio+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/816b5e1b8be0a050652cf4069a381fe638c6e06d?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7AnsmqpKKsxrLSp4GiXDu7",
                         "artists": [
@@ -2950,6 +2974,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Melodía del Viento",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++Melod%C3%ADa+del+Viento+(Audio+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/e7538b0dab36ba968c75cadccf20da608f4e9bd8?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6PBwgds4GkqwhbmfJ0kX4X",
                         "artists": [
@@ -2968,6 +2993,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Sol",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++Sol+(Audio+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/c0b354b391388cfd92d8a409dae909ce2571db76?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1LcmVpTjXy7fy34m0Jyayq",
                         "artists": [
@@ -2986,6 +3012,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Nena, dime algo.",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++Nena%2C+dime+algo+(Video+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/484c92d1a683f0b595a59658b6d024c0bb6fb78a?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:3McO6jC6I8FT8wd5EJAHCA",
                         "artists": [
@@ -3004,6 +3031,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Cabo",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++Cabo+(Audio+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/058733f13c92085c45b708f60cfda50e2f7f0d99?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4v2XByXjgBoY6PJkteQnlj",
                         "artists": [
@@ -3022,6 +3050,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Horizonte",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usted+Se%C3%B1alemelo+++Horizonte+(Audio+Oficial.mp4",
                         "trackPreview": "https://p.scdn.co/mp3-preview/5d2e4b6fe4fc8a28b5d7b9a778d99d35c71f76dd?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0duxIpbGJGmjbPvcqGgS51",
                         "artists": [
@@ -3060,6 +3089,7 @@ app.get("/albums", (req, res) => {
                 "tracks": [
                     {
                         "trackName": "Madame Razzmatazz - En directo Razzmatazz",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+++Madame+Razzmatazz+(Audio+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/389224a1f5e23bbf3da567d88fa608577c83351a?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6fhJh7fsCUlfmf9bLlh5WI",
                         "artists": [
@@ -3078,6 +3108,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Salud, dinero & amor - En directo Razzmatazz",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+-+Salud%2C+dinero+%26+amor+(Audio+Oficial).mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d52083232a577f5ee4bce74adaac3bfb38197b96?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7kV1KFy9QC8TbRdq8EsgBH",
                         "artists": [
@@ -3096,6 +3127,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Carnaval de Brasil - En directo Razzmatazz",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+-+Carnaval+de+Brasil++(Audio+Oficial).mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/00cb864105a33411b02bdb79f348b58c685edb7e?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5fMYQHFvZYQpDUBHB6j80H",
                         "artists": [
@@ -3114,6 +3146,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "Más duele - En directo Razzmatazz",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+++M%C3%A1s+duele+(Audio+Oficial.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/4b77cff6592372885c79d691ebc28597ce261b4d?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4Fhd2ASiNM3j9y03sTN43K",
                         "artists": [
@@ -3150,6 +3183,7 @@ app.get("/albums", (req, res) => {
                     },
                     {
                         "trackName": "All You Need Is Pop - En directo Razzmatazz",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+-+All+You+Need+Is+Pop++(Audio+Oficial).mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d3c8bc3393becd8e3409b0ad38d41b5c98dafbb0?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4ny1U20om1QugD3ozqiOdV",
                         "artists": [
@@ -7069,6 +7103,7 @@ app.get("/playlist", (req, res) => {
                 "tracks": [
                     {
                         "trackName": "Abrazo Sereno",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Abrazo+Seren.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/ece5af7741a6e9f1e5ca06b9391cff2517dbf867?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:24SPAIgNceYbCmdrowgkRK",
                         "artists": [
@@ -7092,6 +7127,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Lindo",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Lindo.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/91833625efd8ec5339885928e5c36ba822aa9e6c?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5mQiIVDbSB9kps6DDU9wZN",
                         "artists": [
@@ -7115,6 +7151,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Sclavia",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Sclavi.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/b595d47089d96d81ef55977a815d2af7cbdb0bf8?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1EWbhAgdQNwYau5DvgdEtW",
                         "artists": [
@@ -7138,6 +7175,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Solmization - 528Hz",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Solmization+528H.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/e98e016483910df6b8523fafe6c2dd81a0cf8aed?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0PBeh1YEfaYyZEk0CvqZdl",
                         "artists": [
@@ -7161,6 +7199,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Connection",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Connectio.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/8c3b284201953e551f9dc69a3b79e4c43f401248?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5BDIKKycvDRRpJGG76cg0n",
                         "artists": [
@@ -7184,6 +7223,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Quiet Awareness",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Quiet+Awarenes.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/ca598784f0c44d05b6cf14ef71803f692e6a5d6d?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:395VlKRtLopomEXtjYSDsz",
                         "artists": [
@@ -7207,6 +7247,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Dysania",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Dysani.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/f3e8a91af16e673ccdbdfbcf9199076c61a9245f?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0DDAJ13i1P8PAG2uSmJxQA",
                         "artists": [
@@ -7230,6 +7271,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "milagro",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/milagr.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/c48be639c94ec822f98f581d71e1303a6832e1c4?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4RlPG34EWDZRfQpOFXIr5a",
                         "artists": [
@@ -7253,6 +7295,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Spectral Vibrations",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Spectral+Vibration.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/559c621fa7091cb527e71352f241cd5728f179c7?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:364Yxnly3Q1XvxWZRwFtS1",
                         "artists": [
@@ -7276,6 +7319,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Tomorrow",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Tomorro.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/6d57525dee7a01188299c26666a9a1e1ce287ffb?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0eoulivlbUiUsqDfj4axvM",
                         "artists": [
@@ -7299,6 +7343,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Last Light",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Anders+Schill+Paulsen+++Last+Ligh.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a8f71f11761335158a10784a28d4ea943a70bb11?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5Z6Xn3H7uoleoSAQZcWCGb",
                         "artists": [
@@ -7322,6 +7367,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Unification",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Unificatio.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/ad97824f833ebba9cdc796306fafb4a498e31d44?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5dUtiQaiCzaagfh67mBJdp",
                         "artists": [
@@ -7345,6 +7391,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "I Stillhet",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/I+Stillhe.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/0fccfc2ead07a7fe5a818dbf20bfd21bbbea38a4?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6njvRx7CurDgY3G5TBdtkO",
                         "artists": [
@@ -7368,6 +7415,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Neblinoso",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Neblinos.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/7b32af99c32d3c88d271336417b1bc0e5bcb7ef7?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6uZF7xC32ewhpsm36IaM5T",
                         "artists": [
@@ -7391,6 +7439,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Esoteric",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Esoteri.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/3a810e581aaa49220af23aa8abe7975eaf6f2c11?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4vqWzfK3IIE0HwEbAtcUGk",
                         "artists": [
@@ -7414,6 +7463,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Sandhya",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Sandhy.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/73f2b49d3fb67d95e3563de54cc3849ecfa6993c?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0oWESCZ7b4nD5TGa41pUPd",
                         "artists": [
@@ -7437,6 +7487,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Unavene",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Unaven.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/0d7460200a24092081b555601a75104030dc5614?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4dZYpUveESOpInSlQLCXVQ",
                         "artists": [
@@ -7460,6 +7511,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Bland Minnen",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bland+Minne.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/2cd5b300bf9242dd0641f1987ffc2ad08b5387c5?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1GPtXZ0BuMsaURDQQxQIR1",
                         "artists": [
@@ -7483,6 +7535,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Malox",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Malo.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/2e0300c6b3b785f5e393af354ca1e03b2df23674?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0faN9ArILphMbOj9v2qFfy",
                         "artists": [
@@ -7506,6 +7559,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Heavy Cloud",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Heavy+Clou.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/c05685cee028ddcf2220ab4fee61a8985f613bf3?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:3PnhtonoNabJjbuTxFqT2Z",
                         "artists": [
