@@ -6131,6 +6131,7 @@ app.get("/playlist", (req, res) => {
                 "tracks": [
                     {
                         "trackName": "Deep Phase Noise 1",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Deep+Phase+Noise+1.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d5f9b79a53ef9a1a873f4205a6eae705820753dd?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5MOWBRtP53q5yNOtHaMVTh",
                         "artists": [
@@ -6154,6 +6155,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Every Night White Noise",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/2+Every+Night+White+Noise.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/650a7306344cf97f1e725c27a0baf50e5efa1e71?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5nMbf1TCIXxtgWjcCT7pzs",
                         "artists": [
@@ -6177,6 +6179,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Rumore Bianco",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Rumore+Bianco.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/fc42f6aeaf6d3fa3e82d8ddd4f9b60e3ff980e14?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6FrJELq39kHa0lllsUgyS4",
                         "artists": [
@@ -6200,6 +6203,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Suoni Del Cielo",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Suoni+Del+Cielo.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/ed709a7c3429ef08f6fb07fb141b995115cb6e51?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1OnPfzm1vpln863WmYMgt6",
                         "artists": [
@@ -6223,6 +6227,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Dreams & Calmness",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Dreams+Of+Calmnes.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/99dbeac21e0504639c840c46124518ea041a20a1?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:295uck3ky42Qj4rxbISGG5",
                         "artists": [
@@ -6246,6 +6251,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Quantum White",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Quantum+White+(Original+mix.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/4aa6a9f8db74b4daefb3870ac7e16beb3b2d87d2?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5DqjEVkM7PA3bMaEhkrUdb",
                         "artists": [
@@ -6269,6 +6275,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Tranquility",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Tranquilit.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a58bc42da36ca224f09d425bb71df918e2011c65?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6CbPp21JO1ZFFVkP9vism2",
                         "artists": [
@@ -6292,6 +6299,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Tranquil White Noise",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Tranquil+White+Noise.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/0dad1f3c954829efc37ca7f5059a4f476d3c4160?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:2YTcBeRLoVO2MkzKpbxPVW",
                         "artists": [
@@ -6315,6 +6323,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Fuori Zona",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Fuori+Zona.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/fe1d42fb3c405e2c798784cb2a1a20553a992e9c?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7efOZRH7Zu4oCvQwZ8ppIq",
                         "artists": [
@@ -6338,6 +6347,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Wind Low Frequencies Part 2",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Wind+Low+Frequencies+Part.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/89e6fcd938829cd963bbddf25396e01e40b6da8d?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7xLU1kiMAeExhb6fQydrda",
                         "artists": [
@@ -6361,6 +6371,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "The Dark White Noise",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/White+Noise++Black+Silenc.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/0f4eb022c6c1588b3829d6878ee1c791e2545977?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0Se7OnifRxYPVsimoV1Yyb",
                         "artists": [
@@ -6384,6 +6395,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Pause The Noise",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Pause+the+Nois.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/8dbf5ef5128643b4540cf7b75bd25352abd7007e?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0mDQqx2jS7Da0kok7oUiiJ",
                         "artists": [
@@ -6407,6 +6419,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Calmed By Rest",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Calmed+By+Rest+(Original+mix.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/00fb7a927ad3bcd26833b44aac56dfd77a0f7be4?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4Enk3Ss0Mp6L8eCgL2WbEv",
                         "artists": [
@@ -6430,6 +6443,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Breathe Easy",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Blue+++Breathe+Eas.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/0b0f11ba5cbdb61d045499d228ce86954b860d10?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7LnDKGTwMoLv3XSgxOnj83",
                         "artists": [
@@ -6453,6 +6467,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Cabin Noise Focus",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Cabin+Noise+Focu.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/33aa5346df5dcaa2bcceb1093e9b7ecc65ee0a32?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:3kxUcpFquT4ZdvJC1Nyu5q",
                         "artists": [
@@ -6476,6 +6491,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Noise & Sleep",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Noise+%26+Sleep.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/5cb54421444632d68666ef27f19ac37252bc1145?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:2E691vZJRMdpiiHFjd5YUi",
                         "artists": [
@@ -6499,6 +6515,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Gentle White Noise - Seamless",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Gentle+White+Noise+(Seamless.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/59f37a1222f0c6efceed13a70b72bfc8bdefbe1d?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:2COPUH8f4mlt1vzZG83zqU",
                         "artists": [
@@ -6522,6 +6539,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Ruido Profundo",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ruido+Profund.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/4ab20f22ffacc235875fcc94f034e863bf16827b?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0dZ1XVpB6DEVwCpk0kRNG4",
                         "artists": [
@@ -6545,6 +6563,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Deep & Dark - Seamless",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Deep+u0026+Dark+(Seamless.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/7923399cd45fe34c3e04e4cb272983c44d01d1e8?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:2iZAAO5JEjMvClQ2W7VmSM",
                         "artists": [
@@ -6568,6 +6587,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Settle Back",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Settle+Back+Hom.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/1a963ff4995d6a6fda0aa2465eb123472fd7aa86?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4CKC1yQYAr64kRHH7AW85j",
                         "artists": [
@@ -6600,6 +6620,7 @@ app.get("/playlist", (req, res) => {
                 "tracks": [
                     {
                         "trackName": "Gone",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Gavin+Luke+++Gon.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a4dbccc45db39bb971d6ef883424cddadd7be95f?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:331iLszrgVOeYNl2KKn12j",
                         "artists": [
@@ -6623,6 +6644,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "The Edge of Love",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/The+Edge+of+Lov.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/c70ca1ffda0b1691679654286c639aec838dce3b?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5awyHvXpb5txqlRuqUiHAl",
                         "artists": [
@@ -6646,6 +6668,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Harvesting",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Harverstin.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/5d0b468cada547c6859c21fbd7e3d63b15e4fc2c?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:42io3dxycksUzxSqysSQJR",
                         "artists": [
@@ -6669,6 +6692,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Spring",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Hans+Wolfgang+Ziegler+++Spring+Audiolize.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/39d0457c0a028ca09112d02f979833e9818f4a1f?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1TV7QxbgPTFIZJHvu8DkeY",
                         "artists": [
@@ -6692,6 +6716,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Schwebend",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Phillipp+Vogler+++Schweben.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/10d917264f306f67ab0c3fb571ea51f321fd7e26?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:775dmuIRQojrplsns8VKen",
                         "artists": [
@@ -6715,6 +6740,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Nefelibata",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nefelibat.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/19402500894239b4d553de7645dc95c6064b756d?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:07MRGolhqppoqEWDV5aZhJ",
                         "artists": [
@@ -6738,6 +6764,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "At Dawn",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ever+So+Blue+++At+Daw.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a9c3adb35b4ac952f9fc5856921b760a42bec888?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6sSFbKl9oQ7ToYxBeTQZvw",
                         "artists": [
@@ -6761,6 +6788,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Lyrebird",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Keira+Conlon+++Lyrebir.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/11894f4ec7950d620f3e5e8259ce432bff1a4081?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:72mDETn3Ba8yVewAcqnlqQ",
                         "artists": [
@@ -6784,6 +6812,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Sarek",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Sare.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/5cbdd120c2f6ff28a402c4ff053364a08086156f?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7tN9gRPc8eYR9mS5cQsV0M",
                         "artists": [
@@ -6807,6 +6836,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Toužebný",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Jan+Kubec+++Touz%CC%8Cebny%EF%BF%BD.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/2ceb8b9b70774ab9b88e45442b265826f813ab53?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:3I36NaLQR6zCn5Y2stUg9H",
                         "artists": [
@@ -6830,6 +6860,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "follow me home",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/follow+me+hom.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a69efc84ee38650aa9c90b48ec2431d3fd1176d2?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7k539VUTniwBWMYFOgrAyf",
                         "artists": [
@@ -6853,6 +6884,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Weightless Part 1",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Weightless+Part+1+++Marconi+Unio.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/9e4c28ae4b97d725501777f3f18bb5c74c9ab2ab?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:2UZZtkoLOg7IHxeTAdPFvd",
                         "artists": [
@@ -6876,6 +6908,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Pas de deux",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Pas+de+deu.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/b1af0d8b091039eb126a447f59a818cb31d7d124?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:2LNOrSjCSR1Ap7QOZLbJnd",
                         "artists": [
@@ -6899,6 +6932,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Unrequited",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Unrequite.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/57775d9c887d7c4578296d76c8e5ad8ee108ef9e?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:07tUhErHb7K8bdOcwyvbuK",
                         "artists": [
@@ -6922,6 +6956,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Evening Message",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Evening+Messag.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d9712f27192a86bd107876ddbf72fa7adba94680?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1KvZBw7bPWws38At1IVRbU",
                         "artists": [
@@ -6945,6 +6980,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Crépuscule",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Cre%CC%81puscul.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/7c6346c86131a6b28ce5b07066eaa1e2ffce8b85?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4FE9jhuatcOZZYoHdBDN8T",
                         "artists": [
@@ -6968,6 +7004,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Chiudete Gli Occhi",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Artemio+Li+Fonti+++Chiudete+Gli+Occh.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/815f86f69160c39619cf92404458942e01830111?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1pFCkU2BQHr0mJIj05KXSD",
                         "artists": [
@@ -6991,6 +7028,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "In Bloom",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/In+Bloo.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/1af9babf27153e5fd5b7ec8f85aadd72b3308e85?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:60nhoUdtsUq4FOwts7B2bM",
                         "artists": [
@@ -7014,6 +7052,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Floriscope",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Floriscop.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/11077e45bf29a5ac5d39bf334ea1048bd9e9e380?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:45HRj3YdVgAOLbkSRiJ4l3",
                         "artists": [
@@ -7037,6 +7076,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Paper Thin Reality",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ave+Air+++Paper+Thin+Realit.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/c676e1675bd4729d206f8f6afac3aa5da6642787?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0r0wpbCoNi9ixLK7jQBL7J",
                         "artists": [
@@ -7538,6 +7578,7 @@ app.get("/playlist", (req, res) => {
                 "tracks": [
                     {
                         "trackName": "Dreaming with Waves",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Dreaming+with+Wave%5B1%5D.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/6d2cc6db08cff08e35d04f3920a9f04540cb0038?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:50AAtRY8C26WF5zVjvXTNT",
                         "artists": [
@@ -7561,6 +7602,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Majestic Ocean",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Majestic+Ocean.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/b617106320872c3d711965f5dc40dac054462d67?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1ocx24cg3X119MilyogyCd",
                         "artists": [
@@ -7584,6 +7626,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Chill Waves & Wind in Leaves",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Chill+Waves+%26+Wind+in+Leave.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/3f232585e3ef7c5458f47a99c5fd147c17e577c3?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:37TdJ5EWlM9Jfw8IqiUHcm",
                         "artists": [
@@ -7607,6 +7650,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Beach Calmness",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Beach+Calmnes.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/18fedd75a318bc431fbc0b0c032ab8125a5be55f?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1PZoHdDM71mzOFW1T6H03y",
                         "artists": [
@@ -7630,6 +7674,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Crashing Ocean Waves For Sleeping",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ocean+Waves+For+Deep+Sleep.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/90c68611c5548459b86ed827b5839e52c54ef153?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7k8qqfazhpxA9usBYGLVEv",
                         "artists": [
@@ -7653,6 +7698,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "2AM Waves",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/2AM+Wave.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/f077c043d2f4912d424062fe483563bedaf750f9?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5IQ6pLdPDHrfL4UPE8gJ39",
                         "artists": [
@@ -7676,6 +7722,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Pacific Night Waves",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Pacific+Night+Wave.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a96cd1988c4bead727b2fcb936c78b1ca9f510a4?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:1Xuoj9zqH1PeGMAWKLPrSH",
                         "artists": [
@@ -7699,6 +7746,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Healing Ocean Sounds",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Healing+Ocean+Sound.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/08aa80c4421ba08d4349fcebc6faa760a50efb6d?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4g2u0nitKXjGmMlHEZ3mjr",
                         "artists": [
@@ -7722,6 +7770,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Waves Loopable",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Waves+Loopable.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/bbc9025aeeb88bce9c3fbc93194942ae0c0cbd71?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6ZaZGu92O4dOVFtSbF7FrU",
                         "artists": [
@@ -7745,6 +7794,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Guided by the Rocks and the Rolling Sea",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Guided+by+the+Rocks+and+the+Rolling+Se.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/3c67e09342a04cff9cabf90e86358629423f938b?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4wgfLLN0iLPR9mypcRIEL7",
                         "artists": [
@@ -7768,6 +7818,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Coastal Wave Sounds",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Coastal+Wave+Sound.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/32234eef9f03761b1f985f93bdd1c97dae9a473c?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:0rLSuRjl29iu5YaJ66Ns5J",
                         "artists": [
@@ -7791,6 +7842,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "オーシャンウェーブ",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/%E9%9F%B3%E6%A5%BD+(%E6%B3%A2.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/38f034bf87211d1dc5943132c42c638c9f605293?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:4iWk0xghJ3A4RGqqv7GDKH",
                         "artists": [
@@ -7814,6 +7866,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Santa Monica Beach Waves",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Incredible+Santa+Monica+Beach+Wave.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/c3e6160f6587c1d35c9d426d86e2a7b0e4591b15?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6tk4FeBQbOTJ2DT3VB509w",
                         "artists": [
@@ -7837,6 +7890,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Windy Ocean Waves",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Windy+Ocean+Wave.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/f6715d5b1a45dbe02c72ce505a8e85871cda8cb0?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6XEEsaEjxwQx4ulaTO1SnT",
                         "artists": [
@@ -7860,6 +7914,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Lakeside",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Naturem+(Original+Mix.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/97f1c968399a3790b0d556a8ada76ec7ca6220a8?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:61sxx44952Sk8QvxcXYBjL",
                         "artists": [
@@ -7883,6 +7938,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Dreamy Waters",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Dreamy+Water%5B1%5D.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/2b99ab55c4f85f9a18fe99c52a6aef45f39f636e?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:5PLGTus8xFBbBRAJikcgJD",
                         "artists": [
@@ -7906,6 +7962,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Summer Ocean Waves",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Summer+Ocean+Wave.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/15d1e439e307e6411f9b7de2d1f8f866974a2cdb?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6RfkQdyd9B1Q8SFNT6Wvwn",
                         "artists": [
@@ -7929,6 +7986,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Sleep On The Ocean",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Sleep+On+The+Ocea.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/668409eea62b1461a6c6a6ca2013d9849703e379?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:6gx1y86TaoNZPTXImnw1fX",
                         "artists": [
@@ -7952,6 +8010,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Dreamscape Waves (Ocean)",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Sleep+On+The+Ocea.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/75032c834b815602f6c6ca07d892a4bb50ec609e?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:7pjhDlAstOqIkH2QmnblvU",
                         "artists": [
@@ -7975,6 +8034,7 @@ app.get("/playlist", (req, res) => {
                     },
                     {
                         "trackName": "Waves In The Morning Light",
+                        "trackfull": "https://apispotify.s3.sa-east-1.amazonaws.com/Waves+In+The+Morning+Ligh.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/fb4ec6796013b9bd892137fb0016381835ffb0dc?cid=0a5a810744fa4b2291120b509d465eab",
                         "uri": "spotify:track:3OLmiKhYJzFhVR4HfzzS4G",
                         "artists": [
