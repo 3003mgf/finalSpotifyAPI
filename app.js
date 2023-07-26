@@ -3061,6 +3061,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Madame Razzmatazz - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/389224a1f5e23bbf3da567d88fa608577c83351a?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+++Madame+Razzmatazz+(Audio+Oficial.mp3",
                         "uri": "spotify:track:6fhJh7fsCUlfmf9bLlh5WI",
                         "artists": [
                             {
@@ -3079,6 +3080,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Salud, dinero & amor - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d52083232a577f5ee4bce74adaac3bfb38197b96?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+++Salud%2C+dinero+u0026+amor+(Audio+Oficial.mp3",
                         "uri": "spotify:track:7kV1KFy9QC8TbRdq8EsgBH",
                         "artists": [
                             {
@@ -3097,6 +3099,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Carnaval de Brasil - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/00cb864105a33411b02bdb79f348b58c685edb7e?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+-+Carnaval+de+Brasil++(Audio+Oficial).mp3",
                         "uri": "spotify:track:5fMYQHFvZYQpDUBHB6j80H",
                         "artists": [
                             {
@@ -3115,6 +3118,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Más duele - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/4b77cff6592372885c79d691ebc28597ce261b4d?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+++M%C3%A1s+duele+(Audio+Oficial.mp3",
                         "uri": "spotify:track:4Fhd2ASiNM3j9y03sTN43K",
                         "artists": [
                             {
@@ -3133,6 +3137,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "El día de la mujer mundial - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/2d3ef6c0b8c4066688dd67a035ac4985b4879a07?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+++El+d%C3%ADa+de+la+mujer+mundial+(Audio+Oficial.mp3",
                         "uri": "spotify:track:0L08mEl1mst2aZJjUQ34Lu",
                         "artists": [
                             {
@@ -3151,6 +3156,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "All You Need Is Pop - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d3c8bc3393becd8e3409b0ad38d41b5c98dafbb0?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+-+All+You+Need+Is+Pop++(Audio+Oficial).mp3",
                         "uri": "spotify:track:4ny1U20om1QugD3ozqiOdV",
                         "artists": [
                             {
@@ -3169,6 +3175,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Por mirarte - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/8a50ab882c6a9079c5c90ccde03835ef81b47ebf?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+-+Por+mirarte+(Audio+Oficial).mp3",
                         "uri": "spotify:track:5pVPq96QTjbzUD83BZ7vPv",
                         "artists": [
                             {
@@ -3187,6 +3194,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "La mirada del adiós - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/f951a7f7c75312d09e36875ecd7117451749fccf?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+-+La+mirada+del+adi%C3%B3s+(Audio+Oficial).mp3",
                         "uri": "spotify:track:5YbIy8ZM1zB8AUqqX2yh11",
                         "artists": [
                             {
@@ -3205,6 +3213,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Mil horas - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/780a12fa47faf2df38d32cb375230cbd166b0179?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+-+Mil+horas+(Audio+Oficial).mp3",
                         "uri": "spotify:track:7FejMI9cSIns7aoFB6sKfp",
                         "artists": [
                             {
@@ -3223,6 +3232,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Cada una de tus cosas - En directo Razzmatazz",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d4f6b2bfeeacdb806bd7b52c95f955de3d732f77?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Andr%C3%A9s+Calamaro+-+Cada+una+de+tus+cosas+(Audio+Oficial).mp3",
                         "uri": "spotify:track:0vGQoXVdlrNtuej2FPZQUE",
                         "artists": [
                             {
@@ -3261,6 +3271,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Eloping",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d0ec3f47ef3232095ad30c6b6f2da96e768b7274?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Eloping.mp3",
                         "uri": "spotify:track:4EUqUbEFo6Or1AzJ9dpSbT",
                         "artists": [
                             {
@@ -3279,6 +3290,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Milanesa al Pan",
                         "trackPreview": "https://p.scdn.co/mp3-preview/aeadad8cfd37bf4b5abfb5d9afb152c23cf77417?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Juan+Wauters+-+Milanesa+al+Pan+(ft.+Zoe+Gotusso).mp3",
                         "uri": "spotify:track:3PBcikuq3g9eG8KOZqdulN",
                         "artists": [
                             {
@@ -3307,6 +3319,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Nube Negra",
                         "trackPreview": "https://p.scdn.co/mp3-preview/ec1382c0e31092138e42bd4c820d16e4dada6b96?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Juan+Wauters+-+Nube+Negra+%5Bft.+Y+La+Bamba%5D+(Official+Video).mp3",
                         "uri": "spotify:track:2AYQUhGDmE3U7ron4wJ8mF",
                         "artists": [
                             {
@@ -3325,6 +3338,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Amor, Amor",
                         "trackPreview": "https://p.scdn.co/mp3-preview/235ce1969f4f44af937efc5fcb5d8403f7c3afb2?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Amor%2C+Amor.mp3",
                         "uri": "spotify:track:1IDNu4ltf0yBZ0HP9l1LLj",
                         "artists": [
                             {
@@ -3343,6 +3357,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Modus Operandi",
                         "trackPreview": "https://p.scdn.co/mp3-preview/117fc163fd455ae33e9f10a454fceee0b3c7234f?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Juan+Wauters+-+Modus+Operandi+%5Bft.+Frankie+Cosmos%5D+(Official+Video).mp3",
                         "uri": "spotify:track:3KYtH8YrawyEIZaLADaRyu",
                         "artists": [
                             {
@@ -3371,6 +3386,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Bolero",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d35a5cfc87465302a499c58e9edd4f2a3264a290?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bolero.mp3",
                         "uri": "spotify:track:5que3EJT8MjGlkWPGdYXHL",
                         "artists": [
                             {
@@ -3399,6 +3415,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Mensaje Codificado",
                         "trackPreview": "https://p.scdn.co/mp3-preview/aab210d2b39f5df0be7ed189ccac547a08baece2?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Juan+Wauters+-+Mensaje+Codificado+(Official+Video).mp3",
                         "uri": "spotify:track:032Ga2o8RvbkqWJuMxAME1",
                         "artists": [
                             {
@@ -3417,6 +3434,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Millionaire",
                         "trackPreview": "https://p.scdn.co/mp3-preview/898fb7e43d7d3e57c0536435768a79a7be709e8c?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Juan+Wauters+-+Millionaire+(Official+Video).mp3",
                         "uri": "spotify:track:1kKfYZ3Mpp4sLdUZsLSHFe",
                         "artists": [
                             {
@@ -3435,6 +3453,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Wandering Rebel",
                         "trackPreview": "https://p.scdn.co/mp3-preview/1831b665b25aa6354e155d624a53069925f33b80?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Wandering+Rebel.mp3",
                         "uri": "spotify:track:1n2Hb0yPyWxsw8n2nuoRT0",
                         "artists": [
                             {
@@ -3463,6 +3482,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Carriage",
                         "trackPreview": "https://p.scdn.co/mp3-preview/1afd3eb92e9e572e1f73d13dc0213ec6cade9cc1?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Carriage.mp3",
                         "uri": "spotify:track:4oxarxdqbXw6hLFXel36yH",
                         "artists": [
                             {
@@ -3501,6 +3521,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "REMEMBER",
                         "trackPreview": "https://p.scdn.co/mp3-preview/e45cd506d32e345ed3174f9d89a07f6e925f4bbe?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bocho+-+REMEMBER.mp3",
                         "uri": "spotify:track:12yP7AZBoxN9OHMlspinrY",
                         "artists": [
                             {
@@ -3519,6 +3540,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "LATINAS",
                         "trackPreview": "https://p.scdn.co/mp3-preview/ec7fdecabab064e9ac9178638b75ba2271457d12?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bocho+-+LATINAS+%5BVisualizer%5D.mp3",
                         "uri": "spotify:track:3MooXBryQ75wmfDziR1NOF",
                         "artists": [
                             {
@@ -3537,6 +3559,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "TINDER uwu",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a2dd880019ea66444d09c2be181f88fea6e96c4d?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bocho+-+TINDER+uwu+(Audio).mp3",
                         "uri": "spotify:track:2EfKvf4oToDIclK4tJ8FDQ",
                         "artists": [
                             {
@@ -3555,6 +3578,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "AMOR INTRO",
                         "trackPreview": "https://p.scdn.co/mp3-preview/c2187f214d3aa3e99edb620ababbf3629b5062cc?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bocho+-+AMOR+INTRO+%5BVisualizer%5D.mp3",
                         "uri": "spotify:track:07ltmd3gbMm0U3e5VkRuMU",
                         "artists": [
                             {
@@ -3583,6 +3607,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "AMOR",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a893b1f9c01f79c31851c2762f5cc1314fe25275?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bocho+-+AMOR+(Feat.+China+Elphick)+%5BVisualizer%5D.mp3",
                         "uri": "spotify:track:5vuFXQdi6QfnbTWm1kaHiQ",
                         "artists": [
                             {
@@ -3611,6 +3636,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "NIÑA",
                         "trackPreview": "https://p.scdn.co/mp3-preview/60ee5fc96b7415b9b498cd87e6d37fe857567a8d?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/NI%C3%91A.mp3",
                         "uri": "spotify:track:5MpNXTiJ125BJ8VctCGNhf",
                         "artists": [
                             {
@@ -3629,6 +3655,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "BESO",
                         "trackPreview": "https://p.scdn.co/mp3-preview/f55b3e5bbf655bb41b7aeffc26dcba6b9ed91d9e?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bocho+-+BESO++%5BVisualizer%5D.mp3",
                         "uri": "spotify:track:1fhjSrHvy1sv6r9YKGpEFx",
                         "artists": [
                             {
@@ -3647,6 +3674,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "ELLA (CAE LA NOCHE)",
                         "trackPreview": "https://p.scdn.co/mp3-preview/fe629d593ab203ce9bc54c8d3f88984e0c664e7f?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bocho+-+ELLA+(CAE+LA+NOCHE)+(Feat.+Sergio+Escribano++Escaparate+de+Poes%C3%ADa)+%5BVisualizer%5D.mp3",
                         "uri": "spotify:track:47BEXkblFksAYVHd0xPNEI",
                         "artists": [
                             {
@@ -3685,6 +3713,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "CIELO",
                         "trackPreview": "https://p.scdn.co/mp3-preview/8f1c7373573344ba57c2613605c768acb6dc2dbd?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bocho+-+CIELO+(Feat.+Joe+Vasconcellos)+%5BLETRA%5D.mp3",
                         "uri": "spotify:track:5efX04xn9Pxxa7Zp1zLbmI",
                         "artists": [
                             {
@@ -3713,6 +3742,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "10/10",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a6fde6c23e83830a5cebe0ada865a1c885874dbb?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bocho+-+1010+(Feat.+Cris+Mendeville)+%5BVisualizer%5D.mp3",
                         "uri": "spotify:track:6jApLijOMMtbDusxnzWJaJ",
                         "artists": [
                             {
@@ -3761,6 +3791,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Rescued",
                         "trackPreview": "https://p.scdn.co/mp3-preview/93684d00336410add38f57e71816d66949bfa9be?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+Rescued+(Lyric+Video).mp3",
                         "uri": "spotify:track:3nDstVXtr6xbCZKs5Ka2rZ",
                         "artists": [
                             {
@@ -3779,6 +3810,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Under You",
                         "trackPreview": "https://p.scdn.co/mp3-preview/092c89392a011d9fd5e167538295204a8fd8ee40?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+Under+You+(From+Preparing+Music+For+Concerts).mp3",
                         "uri": "spotify:track:6vWu5uWlox5TVDPl3LvoG3",
                         "artists": [
                             {
@@ -3797,6 +3829,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Hearing Voices",
                         "trackPreview": "https://p.scdn.co/mp3-preview/2442f958464c03983779b9b74dd2596f71fc5c39?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+Hearing+Voices+(Visualizer).mp3",
                         "uri": "spotify:track:4PTowPoeya2AITpeUCJLKN",
                         "artists": [
                             {
@@ -3815,6 +3848,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "But Here We Are",
                         "trackPreview": "https://p.scdn.co/mp3-preview/1007df067ffe5ef29d50fbbe1c56597dbd770791?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+But+Here+We+Are+(Lyric+Video).mp3",
                         "uri": "spotify:track:5s18NymFEHOtiUMfVr6E3H",
                         "artists": [
                             {
@@ -3833,6 +3867,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "The Glass",
                         "trackPreview": "https://p.scdn.co/mp3-preview/05f934e60cc0739d36e4a00c21e34213bdebc2d5?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+The+Glass.mp3",
                         "uri": "spotify:track:26iWAXoJRiUv9yYzxYBqSv",
                         "artists": [
                             {
@@ -3851,6 +3886,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Nothing At All",
                         "trackPreview": "https://p.scdn.co/mp3-preview/2a2d885bfad725374fb1532ee9b793d8598ecb75?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+Nothing+At+All+(Lyric+Video).mp3",
                         "uri": "spotify:track:0csL34JYEsHmFBAZ1fgf8G",
                         "artists": [
                             {
@@ -3869,6 +3905,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Show Me How",
                         "trackPreview": "https://p.scdn.co/mp3-preview/21f827ef9a9f7d7d8a74b2fa3d2164d8d9696dc1?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+Show+Me+How.mp3",
                         "uri": "spotify:track:0ypVld5cYlBkFQqh5KR9kn",
                         "artists": [
                             {
@@ -3887,6 +3924,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Beyond Me",
                         "trackPreview": "https://p.scdn.co/mp3-preview/17601bdbe49ae895a1a0627cc10e6129d4197c96?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+Beyond+Me+(Lyric+Video).mp3",
                         "uri": "spotify:track:17oFMOCRu6P4WLqSSNyKPC",
                         "artists": [
                             {
@@ -3905,6 +3943,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "The Teacher",
                         "trackPreview": "https://p.scdn.co/mp3-preview/11a340f1711fe142a735fb0ad471e8f0ec03103f?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+The+Teacher+(Lyric+Video).mp3",
                         "uri": "spotify:track:7buGBnA0vkYulQafSZnpHx",
                         "artists": [
                             {
@@ -3923,6 +3962,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Rest",
                         "trackPreview": "https://p.scdn.co/mp3-preview/205057cdb97f96aabb4ff37010b51f53a2a514c5?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Foo+Fighters+-+Rest+(Lyric+Video).mp3",
                         "uri": "spotify:track:2IgxiiF1VdAj9ZfQMTORAb",
                         "artists": [
                             {
@@ -3961,6 +4001,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Hablar de ti - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/6a8e227b66cdfcf6fb0a339c85cb33f46b8bd614?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Manuel+Garc%C3%ADa+-+Hablar+de+ti+y+T%C3%A9mpera+(En+vivo%2C+Buenos+Aires).mp3",
                         "uri": "spotify:track:1z4Fo5OVicvR6605X4C9yb",
                         "artists": [
                             {
@@ -3979,6 +4020,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Témpera - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/beb5ffca0fae0a39c5c918603ca684c5608a67bc?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/T%C3%A9mpera+(En+Vivo+Baires).mp3",
                         "uri": "spotify:track:0Hp0S055GmbM8fGLTDcGYY",
                         "artists": [
                             {
@@ -3997,6 +4039,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Bienvenida Buenos Aires (Palabras) - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/e8854889b93b5f7fb6adf71e3cab29df07e1f2ea?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bienvenida+Buenos+Aires+(Palabras)+(En+Vivo+Baires).mp3",
                         "uri": "spotify:track:3xuJch4jNeyrT7sXCU5zUA",
                         "artists": [
                             {
@@ -4015,6 +4058,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Pepitas - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/f060eca13316dbc5679bbd40adbed49c46c786e1?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Pepitas+(En+Vivo+Baires).mp3",
                         "uri": "spotify:track:5GaZScrDoklKf1FnMUq6us",
                         "artists": [
                             {
@@ -4033,6 +4077,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Carta a Cuba (Palabras) - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/9b87261006064780bdcee2e459457e3e0a405937?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Carta+a+Cuba+(Palabras)+(En+Vivo+Baires).mp3",
                         "uri": "spotify:track:5tATkY7emQyohAEXmQPJiH",
                         "artists": [
                             {
@@ -4051,6 +4096,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "La Nueva Canción de la Trova - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/f6424e1b065498839b39ea393da7c1705ca9eaa7?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/La+Nueva+Canci%C3%B3n+de+la+Trova+(En+Vivo+Baires).mp3",
                         "uri": "spotify:track:5WiLvHFGDQB4U6iy7pScTq",
                         "artists": [
                             {
@@ -4069,6 +4115,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "El Caminante, Pt. 1 (Poema) - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/129d3be1a93dd38c1f0bca2370990c859fc975ee?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/El+Caminante%2C+Pt.+1+(Poema)+(En+Vivo+Baires).mp3",
                         "uri": "spotify:track:451hLp4OgyvkBSiBxNWAFD",
                         "artists": [
                             {
@@ -4087,6 +4134,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Los Colores - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/66ccc43614efc21c793777d3a39196f4e7de6ca8?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Los+Colores+(En+Vivo+Baires).mp3",
                         "uri": "spotify:track:5l7sNi1CkDiz78xJtbgqOm",
                         "artists": [
                             {
@@ -4105,6 +4153,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "El pez nuestro de cada día (Palabras) - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/4e2dea54eeddc690bec6db8df174231739a02b20?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/El+pez+nuestro+de+cada+d%C3%ADa+(Palabras)+(En+Vivo+Baires).mp3",
                         "uri": "spotify:track:4iOiduQ7japHyo6CC2GE1g",
                         "artists": [
                             {
@@ -4123,6 +4172,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Barcos de Cristal - En Vivo Baires",
                         "trackPreview": "https://p.scdn.co/mp3-preview/af3442ae58ad497358667e31d87b8ce9f191ad87?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Barcos+de+Cristal+(En+Vivo+Baires).mp3",
                         "uri": "spotify:track:1Wnzefopcna3j6u2ub83YQ",
                         "artists": [
                             {
@@ -4171,6 +4221,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Ya No",
                         "trackPreview": "https://p.scdn.co/mp3-preview/5b41cfde3991f27ac987e215b6cdb504ff2799fd?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole+-+Ya+No+(Official+Video).mp3",
                         "uri": "spotify:track:04v1IMQMdemyNhfH5G2uyp",
                         "artists": [
                             {
@@ -4189,6 +4240,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "DISPARA ***",
                         "trackPreview": "https://p.scdn.co/mp3-preview/0fe5cef2d201537ba294245636d27b87c810f645?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole%2C+Milo+J+-+DISPARA++(Official+Video).mp3",
                         "uri": "spotify:track:6r0TaoZh1Oc1KkuL4rC1kB",
                         "artists": [
                             {
@@ -4217,6 +4269,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "NO voy a llorar :')",
                         "trackPreview": "https://p.scdn.co/mp3-preview/1251fe20febfc046de983a18f817c358738f68c2?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole+-+NO+voy+a+llorar+)+(Official+Video).mp3",
                         "uri": "spotify:track:1gs7YjXiXhGKXrv50fGlQo",
                         "artists": [
                             {
@@ -4235,6 +4288,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "8 AM",
                         "trackPreview": "https://p.scdn.co/mp3-preview/de8a2f96bbfc4ddc752928bef1922595c7f39dad?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole%2C+Young+Miko+-+8+AM+(Official+Lyric+Video).mp3",
                         "uri": "spotify:track:5UcWUgWfR2Ir0EXSb1EpoM",
                         "artists": [
                             {
@@ -4263,6 +4317,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Se va 1 llegan 2",
                         "trackPreview": "https://p.scdn.co/mp3-preview/f08a571f850c7082ef0c2979c15cc5816e1174d9?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole+-+Se+va+1+llegan+2+(Official+Video).mp3",
                         "uri": "spotify:track:0K6DNAyidju52N6vKWNTyH",
                         "artists": [
                             {
@@ -4281,6 +4336,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Llámame",
                         "trackPreview": "https://p.scdn.co/mp3-preview/551bdb8bdc740035e082f6befa003edba96d6ad9?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole+-+Ll%C3%A1mame+(Audio).mp3",
                         "uri": "spotify:track:6LtKp0GyrIABFVaqCUXw1P",
                         "artists": [
                             {
@@ -4299,6 +4355,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "qué le pasa conmigo?",
                         "trackPreview": "https://p.scdn.co/mp3-preview/ceaeef30dd191e447d98648f4a256a1ced025150?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole%2C+Rels+B+-+qu%C3%A9+le+pasa+conmigo+(Official+Video).mp3",
                         "uri": "spotify:track:0RD94y2DlYTzEePb4WuVbU",
                         "artists": [
                             {
@@ -4327,6 +4384,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "Tuyo (Cover) - una que quise hacer",
                         "trackPreview": "https://p.scdn.co/mp3-preview/40c3af56828e10c04552de3c661b0d20914bcebb?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole++Tuyo+Cover++una+que+quise+hacer+Official+Video.mp3",
                         "uri": "spotify:track:6ZfohUIh7wzwMNHj5E6XO5",
                         "artists": [
                             {
@@ -4345,6 +4403,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "CAEN LAS ESTRELLAS",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a0500bb2897fb2cc96b2184d0e41e8e7c05fc65c?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole%2C+YSY+A+-+CAEN+LAS+ESTRELLAS+(Official+Video).mp3",
                         "uri": "spotify:track:4L2v8fOruCUk2wbXC0PKHt",
                         "artists": [
                             {
@@ -4373,6 +4432,7 @@ app.get("/albums", (req, res) => {
                     {
                         "trackName": "TIENES MI ALMA",
                         "trackPreview": "https://p.scdn.co/mp3-preview/710166ba4274b67af80ab12edb5fdbc28fce2b81?cid=0a5a810744fa4b2291120b509d465eab",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nicki+Nicole+-+TIENES+MI+ALMA+(Audio).mp3",
                         "uri": "spotify:track:3vvbeFQVTNXcwgpskOpDGY",
                         "artists": [
                             {
