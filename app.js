@@ -8607,7 +8607,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "LALA",
                         "trackPreview": "https://p.scdn.co/mp3-preview/42772b16b4e575d1b15b0ec7f94e335539390d2d?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Myke+Towers+-+LALA+(Lyric+Video).mp3",
                         "id": "7ABLbnD53cQK00mhcaOUVG",
                         "uri": "spotify:track:7ABLbnD53cQK00mhcaOUVG",
                         "artists": [
@@ -8631,7 +8631,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Columbia",
                         "trackPreview": "https://p.scdn.co/mp3-preview/e3d6df66fe67f618166a2cab858580ac8a96486a?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Columbia+-+Quevedo+(Video+Oficial).mp3",
                         "id": "6XbtvPmIpyCbjuT0e8cQtp",
                         "uri": "spotify:track:6XbtvPmIpyCbjuT0e8cQtp",
                         "artists": [
@@ -8655,7 +8655,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "WHERE SHE GOES",
                         "trackPreview": "https://p.scdn.co/mp3-preview/b9b7e4c982b33ee23c4867f7a3025e3598c35760?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Bad+Bunny+-+WHERE+SHE+GOES+(Video+Oficial).mp3",
                         "id": "7ro0hRteUMfnOioTFI5TG1",
                         "uri": "spotify:track:7ro0hRteUMfnOioTFI5TG1",
                         "artists": [
@@ -8679,7 +8679,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "S91",
                         "trackPreview": null,
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/KAROL+G+-+S91+(Official+Video).mp3",
                         "id": "7EpOXgSRgnglRWr86pZfGU",
                         "uri": "spotify:track:7EpOXgSRgnglRWr86pZfGU",
                         "artists": [
@@ -8703,7 +8703,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "La Bebe - Remix",
                         "trackPreview": "https://p.scdn.co/mp3-preview/57c5d5266219b32d455ed22417155bbabde7170f?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Yng+Lvcas+%26+Peso+Pluma+-+La+Bebe+(Remix)+%5BVideo+Oficial%5D.mp3",
                         "id": "2UW7JaomAMuX9pZrjVpHAU",
                         "uri": "spotify:track:2UW7JaomAMuX9pZrjVpHAU",
                         "artists": [
@@ -8737,7 +8737,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "K-POP",
                         "trackPreview": "https://p.scdn.co/mp3-preview/011ff5d71b1fad87bc1f4bed5a1abab3e0500426?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Travis+Scott%2C+Bad+Bunny%2C+The+Weeknd+-+K-POP+(Official+Music+Video).mp3",
                         "id": "5L3ecxQnQ9qTBmnLQiwf0C",
                         "uri": "spotify:track:5L3ecxQnQ9qTBmnLQiwf0C",
                         "artists": [
@@ -8781,7 +8781,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "BABY HELLO",
                         "trackPreview": "https://p.scdn.co/mp3-preview/8a9ca6c81e6e6ad48758f02017456405fd7a476d?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Rauw+Alejandro+%26+Bizarrap+-+BABY+HELLO+(Official+Video).mp3",
                         "id": "2SOvWt6igzXViIjIiWNWEP",
                         "uri": "spotify:track:2SOvWt6igzXViIjIiWNWEP",
                         "artists": [
@@ -8815,7 +8815,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Ella Baila Sola",
                         "trackPreview": "https://p.scdn.co/mp3-preview/5d39f3e17f1e20e2711d033001e48b8d4249b992?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ella+Baila+Sola+-+(Video+Oficial)+-+Eslabon+Armado+y+Peso+Pluma+-+DEL+Records+2023.mp3",
                         "id": "3dnP0JxCgygwQH9Gm7q7nb",
                         "uri": "spotify:track:3dnP0JxCgygwQH9Gm7q7nb",
                         "artists": [
@@ -8849,7 +8849,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "TULUM",
                         "trackPreview": "https://p.scdn.co/mp3-preview/164468e67b8da8053036c68533ffa473ab680c51?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Peso+Pluma%2C+Grupo+Frontera+-+TULUM+(Video+Oficial).mp3",
                         "id": "7bPp2NmpmyhLJ7zWazAXMu",
                         "uri": "spotify:track:7bPp2NmpmyhLJ7zWazAXMu",
                         "artists": [
@@ -8883,7 +8883,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Classy 101",
                         "trackPreview": null,
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Feid%2C+Young+Miko+-+Classy+101+(Official+Video).mp3",
                         "id": "6XSqqQIy7Lm7SnwxS4NrGx",
                         "uri": "spotify:track:6XSqqQIy7Lm7SnwxS4NrGx",
                         "artists": [
@@ -8917,7 +8917,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "MOJABI GHOST",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a6d8180d52b759c3e3db9aa78e841ffc06e26c17?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/MOJABI+GHOST+-+Tainy%2C+Bad+Bunny.mp3",
                         "id": "4eMKD8MRroxCqugpsxCCNb",
                         "uri": "spotify:track:4eMKD8MRroxCqugpsxCCNb",
                         "artists": [
@@ -8951,7 +8951,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "El Cielo",
                         "trackPreview": "https://p.scdn.co/mp3-preview/6ecfde4a8f2fee1ead220cd9e6926d605470009e?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Sky+Rompiendo%2C+Feid%2C+Myke+Towers+-+El+Cielo+(Official+Video).mp3",
                         "id": "4PA1wK0leCjmRZlP5dQ8Lv",
                         "uri": "spotify:track:4PA1wK0leCjmRZlP5dQ8Lv",
                         "artists": [
@@ -8995,7 +8995,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Mi Bello Angel",
                         "trackPreview": "https://p.scdn.co/mp3-preview/07854d155311327027a073aeb36f0f61cdb07096?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Natanael+Cano+-+Mi+Bello+Angel+%5BOfficial+Video%5D.mp3",
                         "id": "1oWkcc7hQdVYPQMyQ6AFov",
                         "uri": "spotify:track:1oWkcc7hQdVYPQMyQ6AFov",
                         "artists": [
@@ -9019,7 +9019,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "CORAZÓN VACÍO",
                         "trackPreview": "https://p.scdn.co/mp3-preview/15a67adb85841c362532e7cf8c01a12251084880?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Maria+Becerra+-+CORAZ%C3%93N+VAC%C3%8DO+(Official+Video).mp3",
                         "id": "3oNnzH6hmqIGIhJ1NcHlrh",
                         "uri": "spotify:track:3oNnzH6hmqIGIhJ1NcHlrh",
                         "artists": [
@@ -9043,7 +9043,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Hey Mor",
                         "trackPreview": "https://p.scdn.co/mp3-preview/cd2d2242b748408da15c2b66f47d54b3f0793ae0?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ozuna%2C+Feid+-+Hey+Mor+(Video+Oficial)+-+Ozutochi.mp3",
                         "id": "6Rpbzk2LC8xWZI93RyodAq",
                         "uri": "spotify:track:6Rpbzk2LC8xWZI93RyodAq",
                         "artists": [
@@ -10153,7 +10153,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Oops!...I Did It Again",
             "trackPreview": "https://p.scdn.co/mp3-preview/66a5cf0f69b1bb1e8930821881b71756151c5f68?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Britney+Spears+-+Oops!...I+Did+It+Again+(Official+HD+Video).mp3",
             "id": "6naxalmIoLFWR0siv8dnQQ",
             "uri": "spotify:track:6naxalmIoLFWR0siv8dnQQ",
             "artists": [
@@ -10177,7 +10177,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Potential Breakup Song",
             "trackPreview": null,
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Aly+%26+AJ+-+Potential+Breakup+Song+(Closed-Captioned).mp3",
             "id": "11dxtPJKR4E0wlSr0A0t47",
             "uri": "spotify:track:11dxtPJKR4E0wlSr0A0t47",
             "artists": [
@@ -10201,7 +10201,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Perfect Day - Chris Lord Alge Mix",
             "trackPreview": null,
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Perfect+Day+(Chris+Lord+Alge+Mix).mp3",
             "id": "0frKt739Ov9vvKS3JRu5Vi",
             "uri": "spotify:track:0frKt739Ov9vvKS3JRu5Vi",
             "artists": [
@@ -10225,7 +10225,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Ultimate - From \"Freaky Friday\"/Soundtrack Version",
             "trackPreview": null,
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ultimate+(From+'Freaky+Friday'-Soundtrack+Version).mp3",
             "id": "69Zl2MdeQE8twZdiMXJXxZ",
             "uri": "spotify:track:69Zl2MdeQE8twZdiMXJXxZ",
             "artists": [
@@ -10249,7 +10249,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "What a Girl Wants",
             "trackPreview": "https://p.scdn.co/mp3-preview/e53424c96b8572f0680c82f90994e99ef4bc40b3?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Christina+Aguilera+-+What+A+Girl+Wants+(Official+Video).mp3",
             "id": "5bGmuxShUba9maPswDnhCs",
             "uri": "spotify:track:5bGmuxShUba9maPswDnhCs",
             "artists": [
@@ -10273,7 +10273,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Without Me",
             "trackPreview": null,
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Eminem+-+Without+Me+(Official+Music+Video).mp3",
             "id": "7lQ8MOhq6IN2w8EYcFNSUk",
             "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
             "artists": [
@@ -10297,7 +10297,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Stars Are Blind",
             "trackPreview": "https://p.scdn.co/mp3-preview/7e51de1d60fea33b6932a65b33baafecd61a2ec7?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Paris+Hilton+-+Stars+Are+Blind+(Official+Music+Video).mp3",
             "id": "71V89tJj9CboDyzncO6ZN2",
             "uri": "spotify:track:71V89tJj9CboDyzncO6ZN2",
             "artists": [
@@ -10321,7 +10321,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Hips Don't Lie (feat. Wyclef Jean)",
             "trackPreview": "https://p.scdn.co/mp3-preview/374b492571c9ba59c2c4b455ab79ee7501adab93?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Shakira+-+Hips+Don't+Lie+(Official+4K+Video)+ft.+Wyclef+Jean.mp3",
             "id": "3ZFTkvIE7kyPt6Nu3PEa7V",
             "uri": "spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V",
             "artists": [
@@ -10355,7 +10355,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "What Dreams Are Made Of",
             "trackPreview": null,
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Hilary+Duff+-+What+Dreams+Are+Made+Of+(From+The+Lizzie+McGuire+Movie)+4k.mp3",
             "id": "7J1S5n6Kn4wZEu6xrBT0gk",
             "uri": "spotify:track:7J1S5n6Kn4wZEu6xrBT0gk",
             "artists": [
@@ -10379,7 +10379,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Us Against the World",
             "trackPreview": "https://p.scdn.co/mp3-preview/21acaf3d9b6cb8488ba0bb74ef37f15c35a9250b?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Play+-+Us+Against+The+World+4K+60fps+AI+Upscale.mp3",
             "id": "7ID5MLSB71awNzjI7jyojG",
             "uri": "spotify:track:7ID5MLSB71awNzjI7jyojG",
             "artists": [
@@ -10403,7 +10403,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Promiscuous",
             "trackPreview": null,
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nelly+Furtado+-+Promiscuous+(Official+Music+Video)+ft.+Timbaland.mp3",
             "id": "2gam98EZKrF9XuOkU13ApN",
             "uri": "spotify:track:2gam98EZKrF9XuOkU13ApN",
             "artists": [
@@ -10437,7 +10437,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Yeah! (feat. Lil Jon & Ludacris)",
             "trackPreview": "https://p.scdn.co/mp3-preview/1eca1cb525c2b0df2ecba52f1105f139323e09a2?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usher+-+Yeah!+(Official+Video)+ft.+Lil+Jon%2C+Ludacris.mp3",
             "id": "5rb9QrpfcKFHM1EUbSIurX",
             "uri": "spotify:track:5rb9QrpfcKFHM1EUbSIurX",
             "artists": [
@@ -10481,7 +10481,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Hey Ya!",
             "trackPreview": "https://p.scdn.co/mp3-preview/d24b3c4135ced9157b0ea3015a6bcc048e0c2e3a?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Outkast+-+Hey+Ya!+(Official+HD+Video).mp3",
             "id": "2PpruBYCo4H7WOBJ7Q2EwM",
             "uri": "spotify:track:2PpruBYCo4H7WOBJ7Q2EwM",
             "artists": [
@@ -10505,7 +10505,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "TiK ToK",
             "trackPreview": "https://p.scdn.co/mp3-preview/ea95bec21bd6c4979cc91f5d5528b533d879905c?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ke%24ha+-+TiK+ToK+(Official+HD+Video).mp3",
             "id": "0HPD5WQqrq7wPWR7P7Dw1i",
             "uri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
             "artists": [
@@ -10529,7 +10529,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "I Want It That Way",
             "trackPreview": "https://p.scdn.co/mp3-preview/4eec31d974fd622ac7858affd9759f2017dd87e4?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Backstreet+Boys+-+I+Want+It+That+Way+(Official+HD+Video).mp3",
             "id": "47BBI51FKFwOMlIiX6m8ya",
             "uri": "spotify:track:47BBI51FKFwOMlIiX6m8ya",
             "artists": [
@@ -10561,7 +10561,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "LALA",
             "trackPreview": "https://p.scdn.co/mp3-preview/42772b16b4e575d1b15b0ec7f94e335539390d2d?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Myke+Towers+-+LALA+(Lyric+Video).mp3",
             "id": "7ABLbnD53cQK00mhcaOUVG",
             "uri": "spotify:track:7ABLbnD53cQK00mhcaOUVG",
             "artists": [
@@ -10585,7 +10585,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "CORAZÓN VACÍO",
             "trackPreview": "https://p.scdn.co/mp3-preview/15a67adb85841c362532e7cf8c01a12251084880?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Maria+Becerra+-+CORAZ%C3%93N+VAC%C3%8DO+(Official+Video).mp3",
             "id": "3oNnzH6hmqIGIhJ1NcHlrh",
             "uri": "spotify:track:3oNnzH6hmqIGIhJ1NcHlrh",
             "artists": [
@@ -10609,7 +10609,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "DISCOTEKA (feat. Locura Mix)",
             "trackPreview": "https://p.scdn.co/mp3-preview/575c3860ffaccd444d3c63dfdc2d38e0e4e371e4?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/BM+-+Discoteka+-+feat.+Locura+mix+-.mp3",
             "id": "5w7RsSgxxBwdVTSyQDj8Bi",
             "uri": "spotify:track:5w7RsSgxxBwdVTSyQDj8Bi",
             "artists": [
@@ -10663,7 +10663,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Luck Ra | Mission 15",
             "trackPreview": "https://p.scdn.co/mp3-preview/39a731b8dcf41371a6f764e3e6e4b23d821bdd4b?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/LUCK+RA-+MISSION+15+-+Alan+Gomez.mp3",
             "id": "6CIMoDfTsvFVGhFi3v9Izn",
             "uri": "spotify:track:6CIMoDfTsvFVGhFi3v9Izn",
             "artists": [
@@ -10697,7 +10697,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Columbia",
             "trackPreview": "https://p.scdn.co/mp3-preview/e3d6df66fe67f618166a2cab858580ac8a96486a?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Columbia+-+Quevedo+(Video+Oficial).mp3",
             "id": "6XbtvPmIpyCbjuT0e8cQtp",
             "uri": "spotify:track:6XbtvPmIpyCbjuT0e8cQtp",
             "artists": [
@@ -10721,7 +10721,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Me Enteré",
             "trackPreview": "https://p.scdn.co/mp3-preview/3b35fc107fae23e8d7f7fc25daa984b73138247e?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Tiago+PZK%2C+TINI+-+Me+Enter%C3%A9+(Official+Video).mp3",
             "id": "5FWQLEX0lavdxiWGBNkBQ4",
             "uri": "spotify:track:5FWQLEX0lavdxiWGBNkBQ4",
             "artists": [
@@ -10755,7 +10755,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "ASQUEROSO",
             "trackPreview": "https://p.scdn.co/mp3-preview/162e688ae1e6db7622bf15bd482abab4b91cf4d5?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Tiago+PZK%2C+ZECCA+-+Asqueroso+(Official+Video).mp3",
             "id": "1PSlMgsJ0V7pUeumk13fbs",
             "uri": "spotify:track:1PSlMgsJ0V7pUeumk13fbs",
             "artists": [
@@ -10789,7 +10789,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Remember Me",
             "trackPreview": "https://p.scdn.co/mp3-preview/dae7809fd29c52811e4400ecfbf61766b8a209f5?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/DUKI%2C+KHEA%2C+Bizarrap+-+Remember+Me+(Video+Oficial).mp3",
             "id": "7LknbZPcWVDMb6VLDI01MY",
             "uri": "spotify:track:7LknbZPcWVDMb6VLDI01MY",
             "artists": [
@@ -10833,7 +10833,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Salgo a Bailar",
             "trackPreview": "https://p.scdn.co/mp3-preview/0b407a95ed1f3a608024ab2cbea0fdf04df808e8?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/FMK%2C+Emilia+-+Salgo+a+Bailar+(Official+Video).mp3",
             "id": "7xX7bER73YZSE4m76OpMXV",
             "uri": "spotify:track:7xX7bER73YZSE4m76OpMXV",
             "artists": [
@@ -10867,7 +10867,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Los del Espacio",
             "trackPreview": "https://p.scdn.co/mp3-preview/5bbdd15509b10d1b62cf5aa43500255754e2096b?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Los+Del+Espacio+++LIT+killah%2C+Duki%2C+Emilia%2C+Tiago+PZK%2C+FMK%2C+Rusherking%2C+Maria+Becerra%2C+Big+On.mp3",
             "id": "1Hs1uUl8o2VtDp1DABFq0O",
             "uri": "spotify:track:1Hs1uUl8o2VtDp1DABFq0O",
             "artists": [
@@ -10961,7 +10961,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Ni Una Ni Dos",
             "trackPreview": "https://p.scdn.co/mp3-preview/a7718f2e0bdad78f08cd7c9f3240ddb8374a5f32?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/BM+-+Ni+Una+Ni+Dos+(Video+Oficial).mp3",
             "id": "0H9WU0OIXPpbOVgzzOanXb",
             "uri": "spotify:track:0H9WU0OIXPpbOVgzzOanXb",
             "artists": [
@@ -10985,7 +10985,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Dale Mecha",
             "trackPreview": "https://p.scdn.co/mp3-preview/bf0cd37d368a25065f88d734bb4c6c2ddf1767fd?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/MESITA+-+DALE+MECHA+(Video+Oficial).mp3",
             "id": "3WndNMJo029mMO64l9hGFm",
             "uri": "spotify:track:3WndNMJo029mMO64l9hGFm",
             "artists": [
@@ -11009,7 +11009,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "No_se_ve.mp3",
             "trackPreview": "https://p.scdn.co/mp3-preview/3bca60d71ee79d31a0f2bf4ca4adf5c70a4c909c?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Emilia%2C+Ludmilla%2C+Zecca+-+No_se_ve.mp3+(Official+Video).mp3",
             "id": "2iIBpwP4FyQ95xgVail3yr",
             "uri": "spotify:track:2iIBpwP4FyQ95xgVail3yr",
             "artists": [
@@ -11053,7 +11053,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "ADIÓS",
             "trackPreview": "https://p.scdn.co/mp3-preview/9f66b46a88fc763219226551c1736104328274da?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Maria+Becerra%2C+R%C3%A1faga+-+ADI%C3%93S+(Live+Session).mp3",
             "id": "2bNCiY24Eh4saMcc23bvUN",
             "uri": "spotify:track:2bNCiY24Eh4saMcc23bvUN",
             "artists": [
@@ -11077,7 +11077,7 @@ app.get("/playlist", (req, res) => {
         {
             "trackName": "Un Finde | CROSSOVER #2",
             "trackPreview": "https://p.scdn.co/mp3-preview/38b8f2c063a896c568b9741dcd6e194be0a0376b?cid=0a5a810744fa4b2291120b509d465eab",
-            "trackFull": "",
+            "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ke+Personajes%2C+FMK%2C+Big+One+-+Un+Finde+-+CROSSOVER+%232.mp3",
             "id": "3tiJUOfAEqIrLFRQgGgdoY",
             "uri": "spotify:track:3tiJUOfAEqIrLFRQgGgdoY",
             "artists": [
