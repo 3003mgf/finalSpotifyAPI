@@ -5332,29 +5332,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "4oAVmszDgIihib6QBxqjEh"
                     },
-                    {
-                        "trackName": "Soundness",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/8cba4fb03a41fb6fb0320e1c3bd453625f82efff?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:45rdJZmlX5VNVcBEqEO89p",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/0JIVfIfdmw45EoZuIWSZqa",
-                                "id": "0JIVfIfdmw45EoZuIWSZqa",
-                                "name": "Sleepy Sine",
-                                "type": "artist",
-                                "uri": "spotify:artist:0JIVfIfdmw45EoZuIWSZqa"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273e11deb846b71a43e5518e655",
-                            "width": 640
-                        },
-                        "id": "45rdJZmlX5VNVcBEqEO89p"
-                    },
+                    
                     {
                         "trackName": "Calming Quality",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Calming+Quality.mp3",
@@ -5451,29 +5429,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "3TsffbDvNE3vlSujA6Q3zl"
                     },
-                    {
-                        "trackName": "Spiritual",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/7f7c71cd34825dd854990cf110687488a3b667e6?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:1aZQokBzBRVdm8d24yPi8P",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/1J7K4Jr0deYSXtXoUtyp1D",
-                                "id": "1J7K4Jr0deYSXtXoUtyp1D",
-                                "name": "Sleep Cyclone",
-                                "type": "artist",
-                                "uri": "spotify:artist:1J7K4Jr0deYSXtXoUtyp1D"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273399f7888d8af071f73b48515",
-                            "width": 640
-                        },
-                        "id": "1aZQokBzBRVdm8d24yPi8P"
-                    },
+                    
                     {
                         "trackName": "Before The Full Moon",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Before+The+Full+Moon.mp3",
@@ -5498,29 +5454,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "6f9yi7FErSjPN4hWCJURLq"
                     },
-                    {
-                        "trackName": "Liquid Rainbow",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/41a213149e29bbc67a3d0287708a6f863e885969?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:3ex8tsDC5KYifvmmoxc3il",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/3OswQADkQvdWSqFtNH2YqQ"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/3OswQADkQvdWSqFtNH2YqQ",
-                                "id": "3OswQADkQvdWSqFtNH2YqQ",
-                                "name": "Santana Ruiz",
-                                "type": "artist",
-                                "uri": "spotify:artist:3OswQADkQvdWSqFtNH2YqQ"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273a26a2d32f07195f04964c591",
-                            "width": 640
-                        },
-                        "id": "3ex8tsDC5KYifvmmoxc3il"
-                    },
+                    
                     {
                         "trackName": "Szeretet",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Szeretet.mp3",
@@ -5713,29 +5647,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "5aB3pTdKskrxVVfoOGl4bN"
                     },
-                    {
-                        "trackName": "In Balance",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/c6cc6e845f91fae62ca6b3c778d92012bcceb768?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:5ipYoy8xS7FCAZqGJl0cvg",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/2hhShR3qWCC6Qu2KZrgr7N",
-                                "id": "2hhShR3qWCC6Qu2KZrgr7N",
-                                "name": "Corda Una",
-                                "type": "artist",
-                                "uri": "spotify:artist:2hhShR3qWCC6Qu2KZrgr7N"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2731824bf91fd47b95c69d74603",
-                            "width": 640
-                        },
-                        "id": "5ipYoy8xS7FCAZqGJl0cvg"
-                    }
+                    
                 ]
             },
             {
@@ -5793,29 +5705,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "1WHrCfYujnEhApstu2ppFo"
                     },
-                    {
-                        "trackName": "Confianza",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/7221ff0e21705e195a727beefdb8b9e45b64c5c4?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:5MN8kJAw4b4lgNlz1KO32M",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/15YhDrOSaJa3ZoiwykoifX",
-                                "id": "15YhDrOSaJa3ZoiwykoifX",
-                                "name": "Alegro Moya",
-                                "type": "artist",
-                                "uri": "spotify:artist:15YhDrOSaJa3ZoiwykoifX"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b27326a5ed46c42d1c7683ab47d3",
-                            "width": 640
-                        },
-                        "id": "5MN8kJAw4b4lgNlz1KO32M"
-                    },
+                    
                     {
                         "trackName": "The Sky Is A Sea",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/The+Sky+Is+A+Sea.mp3",
@@ -5912,29 +5802,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "30RuRqJ2qdSNgNy5lM4w6D"
                     },
-                    {
-                        "trackName": "A World Above",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/02fc27ffe3913821a47502439a607b5bdb8ae681?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:7x9bH00ovSbLyTMvsyvWNd",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/7uXuTxl4VakzFuKYekOLbW",
-                                "id": "7uXuTxl4VakzFuKYekOLbW",
-                                "name": "Lluvia Green",
-                                "type": "artist",
-                                "uri": "spotify:artist:7uXuTxl4VakzFuKYekOLbW"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273374151575177d04cdd8ba552",
-                            "width": 640
-                        },
-                        "id": "7x9bH00ovSbLyTMvsyvWNd"
-                    },
+                    
                     {
                         "trackName": "Desear",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Desear.mp3",
@@ -5983,29 +5851,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "2APApFAWZgn1F0Efpl6jlj"
                     },
-                    {
-                        "trackName": "Collectively",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/1cd232e8a482c2be224a7240237b7c1061c140f1?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:5sUoXvIj0QKfsGRAtU8NAk",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/5lIaD8O0ZoUIS3aybgfyeO",
-                                "id": "5lIaD8O0ZoUIS3aybgfyeO",
-                                "name": "Haraldur Bergljót",
-                                "type": "artist",
-                                "uri": "spotify:artist:5lIaD8O0ZoUIS3aybgfyeO"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273a8b0c3c6adafb74f04179f3c",
-                            "width": 640
-                        },
-                        "id": "5sUoXvIj0QKfsGRAtU8NAk"
-                    },
+                    
                     {
                         "trackName": "Words From Unknown",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Words+From+Unknown.mp3",
@@ -6126,29 +5972,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "5UkYo3mcGKkkkp9aZmPW5b"
                     },
-                    {
-                        "trackName": "Evermore",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/425abf554d3a6ed290a580506db65a2c20150c28?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:5S2fFnqCM8jYc4GL6k8dWK",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/5u8vwlOeUEwxaklbfP6cnG",
-                                "id": "5u8vwlOeUEwxaklbfP6cnG",
-                                "name": "Aari Kumar",
-                                "type": "artist",
-                                "uri": "spotify:artist:5u8vwlOeUEwxaklbfP6cnG"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273387c5c50c11b2e1f6a6f56a8",
-                            "width": 640
-                        },
-                        "id": "5S2fFnqCM8jYc4GL6k8dWK"
-                    },
+                    
                     {
                         "trackName": "Reveries",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Reveries.mp3",
@@ -6374,29 +6198,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "0GGHxdy1mw6OcS2dVAH0es"
                     },
-                    {
-                        "trackName": "Wet Weather",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/c036702c092dbbc94ba66fb36c8e17cd28e0f611?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:5hf4IrzBngV1tdtDKDzt7a",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/3WiLG8IMyo00LP5Yqb8yUG"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/3WiLG8IMyo00LP5Yqb8yUG",
-                                "id": "3WiLG8IMyo00LP5Yqb8yUG",
-                                "name": "Electricality",
-                                "type": "artist",
-                                "uri": "spotify:artist:3WiLG8IMyo00LP5Yqb8yUG"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273a1e317c5d8d1e48105942f63",
-                            "width": 640
-                        },
-                        "id": "5hf4IrzBngV1tdtDKDzt7a"
-                    },
+                    
                     {
                         "trackName": "Stetiger Regen",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Stetiger+Regen.mp3",
@@ -6541,52 +6343,8 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "56sct0VNF41AwrlNZum66R"
                     },
-                    {
-                        "trackName": "Mystery Sky",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/093b37ede02b66681d0612f030008ec278ec2170?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:0U9ixnjG3qdi35doySolAj",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/5EWTPC3fheVTv9t74wfwPV"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/5EWTPC3fheVTv9t74wfwPV",
-                                "id": "5EWTPC3fheVTv9t74wfwPV",
-                                "name": "Drop To Drop",
-                                "type": "artist",
-                                "uri": "spotify:artist:5EWTPC3fheVTv9t74wfwPV"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2730b4e141ae6f2a81288aa62c7",
-                            "width": 640
-                        },
-                        "id": "0U9ixnjG3qdi35doySolAj"
-                    },
-                    {
-                        "trackName": "Pluie légère et tonnerre",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/53c1fcafbc2f987c18b69e208f33ceeefd8de675?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:1SAvBx0Uzm0UQz6u5J85M9",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/7885SjDRQfxBJ8MTfomwHz"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/7885SjDRQfxBJ8MTfomwHz",
-                                "id": "7885SjDRQfxBJ8MTfomwHz",
-                                "name": "Tonerre",
-                                "type": "artist",
-                                "uri": "spotify:artist:7885SjDRQfxBJ8MTfomwHz"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b27341c39d7a7253ed39beb5d1f5",
-                            "width": 640
-                        },
-                        "id": "1SAvBx0Uzm0UQz6u5J85M9"
-                    },
+                    
+                    
                     {
                         "trackName": "Under the Rain Clouds",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Under+the+Rain+Clouds.mp3",
@@ -6611,98 +6369,8 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "1MyeT7GjwylrPvcLsBSjds"
                     },
-                    {
-                        "trackName": "Thunder Flow",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/1c56306f01df33bd3f2c25a7a3ecddcc2a4c23c2?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:1r5Ep4NrQFWD6mrGmW9jzB",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/2uliIyMyLnG5zT7gV095uG"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/2uliIyMyLnG5zT7gV095uG",
-                                "id": "2uliIyMyLnG5zT7gV095uG",
-                                "name": "Skyscration",
-                                "type": "artist",
-                                "uri": "spotify:artist:2uliIyMyLnG5zT7gV095uG"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2730d50715d37467bf1670a2862",
-                            "width": 640
-                        },
-                        "id": "1r5Ep4NrQFWD6mrGmW9jzB"
-                    },
-                    {
-                        "trackName": "Pluie tropicale",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/fcb6d7ce8772162a5c73054e05c641c1fbd95309?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:3PCELNifmPZJVtvIbwxpuD",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/1S5E0AilcCGAl0KnP1woIH"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/1S5E0AilcCGAl0KnP1woIH",
-                                "id": "1S5E0AilcCGAl0KnP1woIH",
-                                "name": "Vædret",
-                                "type": "artist",
-                                "uri": "spotify:artist:1S5E0AilcCGAl0KnP1woIH"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273f45073a697e298446efd2eb6",
-                            "width": 640
-                        },
-                        "id": "3PCELNifmPZJVtvIbwxpuD"
-                    },
-                    {
-                        "trackName": "Garasia Rain Forest",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/1fb6554d714e9e854ad47506295ba36d68c00aab?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:0I42DRVbtMJr0bLEO6ZQB6",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/4rwOqhIQpWyk3Tx4GbiqMw",
-                                "id": "4rwOqhIQpWyk3Tx4GbiqMw",
-                                "name": "Literrain",
-                                "type": "artist",
-                                "uri": "spotify:artist:4rwOqhIQpWyk3Tx4GbiqMw"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2737fb9aca412efe9418ad010ac",
-                            "width": 640
-                        },
-                        "id": "0I42DRVbtMJr0bLEO6ZQB6"
-                    },
-                    {
-                        "trackName": "Dreamy Rain",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/a6b51965dc335b65d651df85b50986de3380d19f?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:0oSU0oQ4xp3H6sMh1In9W8",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/0fHeyixPnac66k5oBPclVW",
-                                "id": "0fHeyixPnac66k5oBPclVW",
-                                "name": "Rainded",
-                                "type": "artist",
-                                "uri": "spotify:artist:0fHeyixPnac66k5oBPclVW"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2737d876c5a3c8c1585c86512e9",
-                            "width": 640
-                        },
-                        "id": "0oSU0oQ4xp3H6sMh1In9W8"
-                    }
+                    
+                  
                 ]
             },
             {
@@ -6736,29 +6404,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "2XcaKY3ERGi62a8UazC4wj"
                     },
-                    {
-                        "trackName": "Meditación guiada: Alivio de la ansiedad - Pad y ondas de playa",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/a8dba427e3af9ae94f238afc27321bd1a1eae69d?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:3AwM5kkgyHfvMO3lRYIJQZ",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/0YpSO5vQhOKSI0ZEyhRRCj"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/0YpSO5vQhOKSI0ZEyhRRCj",
-                                "id": "0YpSO5vQhOKSI0ZEyhRRCj",
-                                "name": "Nicolas Fuentes",
-                                "type": "artist",
-                                "uri": "spotify:artist:0YpSO5vQhOKSI0ZEyhRRCj"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273853317cd87c131c73e959452",
-                            "width": 640
-                        },
-                        "id": "3AwM5kkgyHfvMO3lRYIJQZ"
-                    },
+                    
                     {
                         "trackName": "Meditación guiada: Reducir el estrés por la respiración - Pad",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Meditaci%C3%B3n+guiada+Reducir+el+estr%C3%A9s+por+la+respiraci%C3%B3n+Pad.mp3",
@@ -6831,121 +6477,7 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "4fc549rCIf4vxezixGlHdT"
                     },
-                    {
-                        "trackName": "Saltar",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/63c73e5ac342138e8df4c061552ed7f332efc0fa?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:2y6ndb9KkibIv7jQdF3zSn",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/50UsCuKy9vTLpEhsVSmqu0"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/50UsCuKy9vTLpEhsVSmqu0",
-                                "id": "50UsCuKy9vTLpEhsVSmqu0",
-                                "name": "Silvia Arazi",
-                                "type": "artist",
-                                "uri": "spotify:artist:50UsCuKy9vTLpEhsVSmqu0"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2731307bc4a80361ad6fcc63307",
-                            "width": 640
-                        },
-                        "id": "2y6ndb9KkibIv7jQdF3zSn"
-                    },
-                    {
-                        "trackName": "Meditación guiada: Cómo lidiar con las emociones negativas - Pad y ondas de playa",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/48aa5fcef201ce0edbcfed27521dd9e7e3d49681?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:5bNxCyVfNNSJSl6YNiRzKD",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/0YpSO5vQhOKSI0ZEyhRRCj"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/0YpSO5vQhOKSI0ZEyhRRCj",
-                                "id": "0YpSO5vQhOKSI0ZEyhRRCj",
-                                "name": "Nicolas Fuentes",
-                                "type": "artist",
-                                "uri": "spotify:artist:0YpSO5vQhOKSI0ZEyhRRCj"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2735083ef7fd4e18586805c6eb1",
-                            "width": 640
-                        },
-                        "id": "5bNxCyVfNNSJSl6YNiRzKD"
-                    },
-                    {
-                        "trackName": "Primer Paso: Elevar las Vibraciones",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/ad6ea55695bf8a67eb9356c0c65595124ecef4b4?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:2zAXDIF5ui9YJj5u3L1mzp",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/50UsCuKy9vTLpEhsVSmqu0"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/50UsCuKy9vTLpEhsVSmqu0",
-                                "id": "50UsCuKy9vTLpEhsVSmqu0",
-                                "name": "Silvia Arazi",
-                                "type": "artist",
-                                "uri": "spotify:artist:50UsCuKy9vTLpEhsVSmqu0"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2739233feb52be372e2f8497536",
-                            "width": 640
-                        },
-                        "id": "2zAXDIF5ui9YJj5u3L1mzp"
-                    },
-                    {
-                        "trackName": "Autoestima",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/3b802957db40efd04ac1b728bacf1988ea00f0d5?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:24J4c7uncyA8iLvuuGXJfo",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/3lbH6noLPe7Pn1ryAbtBBq"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/3lbH6noLPe7Pn1ryAbtBBq",
-                                "id": "3lbH6noLPe7Pn1ryAbtBBq",
-                                "name": "Brahma Kumaris",
-                                "type": "artist",
-                                "uri": "spotify:artist:3lbH6noLPe7Pn1ryAbtBBq"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b27330563d0ff56bf852ce73101a",
-                            "width": 640
-                        },
-                        "id": "24J4c7uncyA8iLvuuGXJfo"
-                    },
-                    {
-                        "trackName": "Intenciones de comenzar el día",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/e8b2890821f6066e5be2f45ab4394eb1e8456915?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:4n7ecXMpRuJJ3TFRaE1DlU",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/1iEKKF94iQfqYJa6JfXsmE"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/1iEKKF94iQfqYJa6JfXsmE",
-                                "id": "1iEKKF94iQfqYJa6JfXsmE",
-                                "name": "Fernanda Roig",
-                                "type": "artist",
-                                "uri": "spotify:artist:1iEKKF94iQfqYJa6JfXsmE"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b273c246a7e270a41e3d628fcd3a",
-                            "width": 640
-                        },
-                        "id": "4n7ecXMpRuJJ3TFRaE1DlU"
-                    },
+                    
                     {
                         "trackName": "Meditación guiada: Haciendo una diferencia - Pad",
                         "trackFull": "https://musicspotify.s3.sa-east-1.amazonaws.com/Meditaci%C3%B3n+guiada+Haciendo+una+diferencia+Pad.mp3",
@@ -6970,62 +6502,8 @@ app.get("/playlist", (req, res) => {
                         },
                         "id": "0obhDEEO98yusNQ4Dmnl92"
                     },
-                    {
-                        "trackName": "Meditación para calmar rápidamente el estrés",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/d7019a3d3b1bb694ee0659e04804e14b446fea72?cid=0a5a810744fa4b2291120b509d465eab",
-                        "uri": "spotify:track:5UOfLQdVkRMlnROo1qF2kG",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/2OEH6feU0Fe2siPG00qwIg"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/2OEH6feU0Fe2siPG00qwIg",
-                                "id": "2OEH6feU0Fe2siPG00qwIg",
-                                "name": "Naty Franzoni",
-                                "type": "artist",
-                                "uri": "spotify:artist:2OEH6feU0Fe2siPG00qwIg"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b27315a2d5963e1ca42ccf4eb838",
-                            "width": 640
-                        },
-                        "id": "5UOfLQdVkRMlnROo1qF2kG"
-                    },
-                    {
-                        "trackName": "Meditación Atención Consciente",
-                        "trackPreview": null,
-                        "uri": "spotify:track:1GX2xaz7wxt087fPSanoiR",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/1HgoOuZod8eiyQcMPfltWt"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/1HgoOuZod8eiyQcMPfltWt",
-                                "id": "1HgoOuZod8eiyQcMPfltWt",
-                                "name": "MusicoterapiaTeam",
-                                "type": "artist",
-                                "uri": "spotify:artist:1HgoOuZod8eiyQcMPfltWt"
-                            },
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/5FSP2F93BC2SHVTJndw2ZW"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/5FSP2F93BC2SHVTJndw2ZW",
-                                "id": "5FSP2F93BC2SHVTJndw2ZW",
-                                "name": "Sada Viveka",
-                                "type": "artist",
-                                "uri": "spotify:artist:5FSP2F93BC2SHVTJndw2ZW"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2732c343ad25a791b9f1f244c41",
-                            "width": 640
-                        },
-                        "id": "1GX2xaz7wxt087fPSanoiR"
-                    }
+                    
+                   
                 ]
             },
             {
@@ -11171,7 +10649,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Oops!...I Did It Again",
                         "trackPreview": "https://p.scdn.co/mp3-preview/66a5cf0f69b1bb1e8930821881b71756151c5f68?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Britney+Spears+-+Oops!...+I+Did+It+Again+(Lyrics).mp3",
                         "id": "6naxalmIoLFWR0siv8dnQQ",
                         "uri": "spotify:track:6naxalmIoLFWR0siv8dnQQ",
                         "artists": [
@@ -11195,7 +10673,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Potential Breakup Song",
                         "trackPreview": null,
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Aly+%26+AJ+-+Potential+Breakup+Song+Explicit+(Official+Audio).mp3",
                         "id": "11dxtPJKR4E0wlSr0A0t47",
                         "uri": "spotify:track:11dxtPJKR4E0wlSr0A0t47",
                         "artists": [
@@ -11219,7 +10697,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Perfect Day - Chris Lord Alge Mix",
                         "trackPreview": null,
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Perfect+Day+(Chris+Lord+Alge+Mix).mp3",
                         "id": "0frKt739Ov9vvKS3JRu5Vi",
                         "uri": "spotify:track:0frKt739Ov9vvKS3JRu5Vi",
                         "artists": [
@@ -11243,7 +10721,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Ultimate - From \"Freaky Friday\"/Soundtrack Version",
                         "trackPreview": null,
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ultimate+(From+'Freaky+Friday'-Soundtrack+Version).mp3",
                         "id": "69Zl2MdeQE8twZdiMXJXxZ",
                         "uri": "spotify:track:69Zl2MdeQE8twZdiMXJXxZ",
                         "artists": [
@@ -11267,7 +10745,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "What a Girl Wants",
                         "trackPreview": "https://p.scdn.co/mp3-preview/e53424c96b8572f0680c82f90994e99ef4bc40b3?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Christina+Aguilera+What+a+Girl+Wants.mp3",
                         "id": "5bGmuxShUba9maPswDnhCs",
                         "uri": "spotify:track:5bGmuxShUba9maPswDnhCs",
                         "artists": [
@@ -11291,7 +10769,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Without Me",
                         "trackPreview": null,
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Eminem+-+Without+Me+(Official+Music+Video).mp3",
                         "id": "7lQ8MOhq6IN2w8EYcFNSUk",
                         "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
                         "artists": [
@@ -11315,7 +10793,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Stars Are Blind",
                         "trackPreview": "https://p.scdn.co/mp3-preview/7e51de1d60fea33b6932a65b33baafecd61a2ec7?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Paris+Hilton+-+Stars+Are+Blind+(Official+Music+Video).mp3",
                         "id": "71V89tJj9CboDyzncO6ZN2",
                         "uri": "spotify:track:71V89tJj9CboDyzncO6ZN2",
                         "artists": [
@@ -11336,44 +10814,11 @@ app.get("/playlist", (req, res) => {
                             "width": 640
                         }
                     },
-                    {
-                        "trackName": "Hips Don't Lie (feat. Wyclef Jean)",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/374b492571c9ba59c2c4b455ab79ee7501adab93?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
-                        "id": "3ZFTkvIE7kyPt6Nu3PEa7V",
-                        "uri": "spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
-                                "id": "0EmeFodog0BfCgMzAIvKQp",
-                                "name": "Shakira",
-                                "type": "artist",
-                                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
-                            },
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
-                                "id": "7aBzpmFXB4WWpPl2F7RjBe",
-                                "name": "Wyclef Jean",
-                                "type": "artist",
-                                "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa",
-                            "width": 640
-                        }
-                    },
+                  
                     {
                         "trackName": "What Dreams Are Made Of",
                         "trackPreview": null,
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/What+Dreams+Are+Made+Of.mp3",
                         "id": "7J1S5n6Kn4wZEu6xrBT0gk",
                         "uri": "spotify:track:7J1S5n6Kn4wZEu6xrBT0gk",
                         "artists": [
@@ -11394,34 +10839,11 @@ app.get("/playlist", (req, res) => {
                             "width": 640
                         }
                     },
-                    {
-                        "trackName": "Us Against the World",
-                        "trackPreview": "https://p.scdn.co/mp3-preview/21acaf3d9b6cb8488ba0bb74ef37f15c35a9250b?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
-                        "id": "7ID5MLSB71awNzjI7jyojG",
-                        "uri": "spotify:track:7ID5MLSB71awNzjI7jyojG",
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/6tNZHg8DS7zzXnIxp3ZTEP",
-                                "id": "6tNZHg8DS7zzXnIxp3ZTEP",
-                                "name": "Play",
-                                "type": "artist",
-                                "uri": "spotify:artist:6tNZHg8DS7zzXnIxp3ZTEP"
-                            }
-                        ],
-                        "image": {
-                            "height": 640,
-                            "url": "https://i.scdn.co/image/ab67616d0000b2730d3e20810daee882068cbc6b",
-                            "width": 640
-                        }
-                    },
+                  
                     {
                         "trackName": "Promiscuous",
                         "trackPreview": null,
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nelly+Furtado+-+Promiscuous+(Official+Music+Video)+ft.+Timbaland.mp3",
                         "id": "2gam98EZKrF9XuOkU13ApN",
                         "uri": "spotify:track:2gam98EZKrF9XuOkU13ApN",
                         "artists": [
@@ -11455,7 +10877,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Yeah! (feat. Lil Jon & Ludacris)",
                         "trackPreview": "https://p.scdn.co/mp3-preview/1eca1cb525c2b0df2ecba52f1105f139323e09a2?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usher+-+Yeah!+(Official+Video)+ft.+Lil+Jon%2C+Ludacris.mp3",
                         "id": "5rb9QrpfcKFHM1EUbSIurX",
                         "uri": "spotify:track:5rb9QrpfcKFHM1EUbSIurX",
                         "artists": [
@@ -11499,7 +10921,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Hey Ya!",
                         "trackPreview": "https://p.scdn.co/mp3-preview/d24b3c4135ced9157b0ea3015a6bcc048e0c2e3a?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Outkast+-+Hey+Ya!+(Official+HD+Video).mp3",
                         "id": "2PpruBYCo4H7WOBJ7Q2EwM",
                         "uri": "spotify:track:2PpruBYCo4H7WOBJ7Q2EwM",
                         "artists": [
@@ -11523,7 +10945,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "TiK ToK",
                         "trackPreview": "https://p.scdn.co/mp3-preview/ea95bec21bd6c4979cc91f5d5528b533d879905c?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ke%24ha+-+TiK+ToK+(Official+HD+Video).mp3",
                         "id": "0HPD5WQqrq7wPWR7P7Dw1i",
                         "uri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
                         "artists": [
@@ -11547,7 +10969,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "I Want It That Way",
                         "trackPreview": "https://p.scdn.co/mp3-preview/4eec31d974fd622ac7858affd9759f2017dd87e4?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Backstreet+Boys+-+I+Want+It+That+Way+(Official+HD+Video).mp3",
                         "id": "47BBI51FKFwOMlIiX6m8ya",
                         "uri": "spotify:track:47BBI51FKFwOMlIiX6m8ya",
                         "artists": [
@@ -11579,7 +11001,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "LALA",
                         "trackPreview": "https://p.scdn.co/mp3-preview/42772b16b4e575d1b15b0ec7f94e335539390d2d?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Myke+Towers+-+LALA+(Lyric+Video).mp3",
                         "id": "7ABLbnD53cQK00mhcaOUVG",
                         "uri": "spotify:track:7ABLbnD53cQK00mhcaOUVG",
                         "artists": [
@@ -11603,7 +11025,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "CORAZÓN VACÍO",
                         "trackPreview": "https://p.scdn.co/mp3-preview/15a67adb85841c362532e7cf8c01a12251084880?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Maria+Becerra+-+CORAZ%C3%93N+VAC%C3%8DO+(Official+Video).mp3",
                         "id": "3oNnzH6hmqIGIhJ1NcHlrh",
                         "uri": "spotify:track:3oNnzH6hmqIGIhJ1NcHlrh",
                         "artists": [
@@ -11627,7 +11049,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "DISCOTEKA (feat. Locura Mix)",
                         "trackPreview": "https://p.scdn.co/mp3-preview/575c3860ffaccd444d3c63dfdc2d38e0e4e371e4?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/PA+ROMPER+LA+DISCOTEKA+-+The+La+Planta%2C+BM%2C+Alejo+Isakk%2C+Locura+Mix+(+Video+Oficial+).mp3",
                         "id": "5w7RsSgxxBwdVTSyQDj8Bi",
                         "uri": "spotify:track:5w7RsSgxxBwdVTSyQDj8Bi",
                         "artists": [
@@ -11681,7 +11103,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Luck Ra | Mission 15",
                         "trackPreview": "https://p.scdn.co/mp3-preview/39a731b8dcf41371a6f764e3e6e4b23d821bdd4b?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/LUCK+RA-+MISSION+15+-+Alan+Gomez.mp3",
                         "id": "6CIMoDfTsvFVGhFi3v9Izn",
                         "uri": "spotify:track:6CIMoDfTsvFVGhFi3v9Izn",
                         "artists": [
@@ -11715,7 +11137,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Columbia",
                         "trackPreview": "https://p.scdn.co/mp3-preview/e3d6df66fe67f618166a2cab858580ac8a96486a?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/top+hits/colombia+quevedo.mp3",
                         "id": "6XbtvPmIpyCbjuT0e8cQtp",
                         "uri": "spotify:track:6XbtvPmIpyCbjuT0e8cQtp",
                         "artists": [
@@ -11739,7 +11161,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Me Enteré",
                         "trackPreview": "https://p.scdn.co/mp3-preview/3b35fc107fae23e8d7f7fc25daa984b73138247e?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Tiago+PZK%2C+TINI+-+Me+Entere%CC%81+(Official+Video).mp3",
                         "id": "5FWQLEX0lavdxiWGBNkBQ4",
                         "uri": "spotify:track:5FWQLEX0lavdxiWGBNkBQ4",
                         "artists": [
@@ -11773,7 +11195,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "ASQUEROSO",
                         "trackPreview": "https://p.scdn.co/mp3-preview/162e688ae1e6db7622bf15bd482abab4b91cf4d5?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Tiago+PZK%2C+ZECCA+-+Asqueroso+(Official+Video).mp3",
                         "id": "1PSlMgsJ0V7pUeumk13fbs",
                         "uri": "spotify:track:1PSlMgsJ0V7pUeumk13fbs",
                         "artists": [
@@ -11807,7 +11229,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Remember Me",
                         "trackPreview": "https://p.scdn.co/mp3-preview/dae7809fd29c52811e4400ecfbf61766b8a209f5?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/DUKI%2C+KHEA%2C+Bizarrap+-+Remember+Me+(Video+Oficial)+(1).mp3",
                         "id": "7LknbZPcWVDMb6VLDI01MY",
                         "uri": "spotify:track:7LknbZPcWVDMb6VLDI01MY",
                         "artists": [
@@ -11851,7 +11273,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Salgo a Bailar",
                         "trackPreview": "https://p.scdn.co/mp3-preview/0b407a95ed1f3a608024ab2cbea0fdf04df808e8?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/FMK%2C+Emilia+-+Salgo+a+Bailar+(Official+Video).mp3",
                         "id": "7xX7bER73YZSE4m76OpMXV",
                         "uri": "spotify:track:7xX7bER73YZSE4m76OpMXV",
                         "artists": [
@@ -11885,7 +11307,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Los del Espacio",
                         "trackPreview": "https://p.scdn.co/mp3-preview/5bbdd15509b10d1b62cf5aa43500255754e2096b?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Los+Del+Espacio+-+LIT+killah%2C+Duki%2C+Emilia%2C+Tiago+PZK%2C+FMK%2C+Rusherking%2C+Maria+Becerra%2C+Big+One.mp3",
                         "id": "1Hs1uUl8o2VtDp1DABFq0O",
                         "uri": "spotify:track:1Hs1uUl8o2VtDp1DABFq0O",
                         "artists": [
@@ -11979,7 +11401,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Ni Una Ni Dos",
                         "trackPreview": "https://p.scdn.co/mp3-preview/a7718f2e0bdad78f08cd7c9f3240ddb8374a5f32?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/BM+-+Ni+Una+Ni+Dos+(Video+Oficial).mp3",
                         "id": "0H9WU0OIXPpbOVgzzOanXb",
                         "uri": "spotify:track:0H9WU0OIXPpbOVgzzOanXb",
                         "artists": [
@@ -12003,7 +11425,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Dale Mecha",
                         "trackPreview": "https://p.scdn.co/mp3-preview/bf0cd37d368a25065f88d734bb4c6c2ddf1767fd?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/MESITA+-+DALE+MECHA+(Video+Oficial).mp3",
                         "id": "3WndNMJo029mMO64l9hGFm",
                         "uri": "spotify:track:3WndNMJo029mMO64l9hGFm",
                         "artists": [
@@ -12027,7 +11449,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "No_se_ve.mp3",
                         "trackPreview": "https://p.scdn.co/mp3-preview/3bca60d71ee79d31a0f2bf4ca4adf5c70a4c909c?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Emilia%2C+Ludmilla%2C+Zecca+-+No_se_ve.mp3+(Official+Video).mp3",
                         "id": "2iIBpwP4FyQ95xgVail3yr",
                         "uri": "spotify:track:2iIBpwP4FyQ95xgVail3yr",
                         "artists": [
@@ -12071,7 +11493,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "ADIÓS",
                         "trackPreview": "https://p.scdn.co/mp3-preview/9f66b46a88fc763219226551c1736104328274da?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Maria+Becerra%2C+Ra%CC%81faga+-+ADIO%CC%81S+(Live+Session).mp3",
                         "id": "2bNCiY24Eh4saMcc23bvUN",
                         "uri": "spotify:track:2bNCiY24Eh4saMcc23bvUN",
                         "artists": [
@@ -12095,7 +11517,7 @@ app.get("/playlist", (req, res) => {
                     {
                         "trackName": "Un Finde | CROSSOVER #2",
                         "trackPreview": "https://p.scdn.co/mp3-preview/38b8f2c063a896c568b9741dcd6e194be0a0376b?cid=0a5a810744fa4b2291120b509d465eab",
-                        "trackFull": "",
+                        "trackFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ke+Personajes%2C+FMK%2C+Big+One+-+Un+Finde+-+CROSSOVER+%232.mp3",
                         "id": "3tiJUOfAEqIrLFRQgGgdoY",
                         "uri": "spotify:track:3tiJUOfAEqIrLFRQgGgdoY",
                         "artists": [
@@ -13042,31 +12464,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 39,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/7uXuTxl4VakzFuKYekOLbW",
-                  "id": "7uXuTxl4VakzFuKYekOLbW",
-                  "name": "Lluvia Green",
-                  "type": "artist",
-                  "uri": "spotify:artist:7uXuTxl4VakzFuKYekOLbW"
-              }
-          ],
-          "id": 194,
-          "name": "A World Above",
-          "songId": "7x9bH00ovSbLyTMvsyvWNd",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/02fc27ffe3913821a47502439a607b5bdb8ae681?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273374151575177d04cdd8ba552",
-          "popularity": 68,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -15962,31 +15360,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 28,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/15YhDrOSaJa3ZoiwykoifX",
-                  "id": "15YhDrOSaJa3ZoiwykoifX",
-                  "name": "Alegro Moya",
-                  "type": "artist",
-                  "uri": "spotify:artist:15YhDrOSaJa3ZoiwykoifX"
-              }
-          ],
-          "id": 189,
-          "name": "Confianza",
-          "songId": "5MN8kJAw4b4lgNlz1KO32M",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/7221ff0e21705e195a727beefdb8b9e45b64c5c4?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b27326a5ed46c42d1c7683ab47d3",
-          "popularity": 67,
-          "explicit": false
-      },
+    
       {
           "artists": [
               {
@@ -16852,56 +16226,8 @@ app.get("/songs", (req, res)=>{
           "popularity": 61,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/0JIVfIfdmw45EoZuIWSZqa",
-                  "id": "0JIVfIfdmw45EoZuIWSZqa",
-                  "name": "Sleepy Sine",
-                  "type": "artist",
-                  "uri": "spotify:artist:0JIVfIfdmw45EoZuIWSZqa"
-              }
-          ],
-          "id": 170,
-          "name": "Soundness",
-          "songId": "45rdJZmlX5VNVcBEqEO89p",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/8cba4fb03a41fb6fb0320e1c3bd453625f82efff?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273e11deb846b71a43e5518e655",
-          "popularity": 70,
-          "explicit": false
-      },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/1J7K4Jr0deYSXtXoUtyp1D",
-                  "id": "1J7K4Jr0deYSXtXoUtyp1D",
-                  "name": "Sleep Cyclone",
-                  "type": "artist",
-                  "uri": "spotify:artist:1J7K4Jr0deYSXtXoUtyp1D"
-              }
-          ],
-          "id": 173,
-          "name": "Spiritual",
-          "songId": "1aZQokBzBRVdm8d24yPi8P",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/7f7c71cd34825dd854990cf110687488a3b667e6?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273399f7888d8af071f73b48515",
-          "popularity": 71,
-          "explicit": false
-      },
+      
+      
       {
           "artists": [
               {
@@ -17162,31 +16488,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 60,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/2hhShR3qWCC6Qu2KZrgr7N",
-                  "id": "2hhShR3qWCC6Qu2KZrgr7N",
-                  "name": "Corda Una",
-                  "type": "artist",
-                  "uri": "spotify:artist:2hhShR3qWCC6Qu2KZrgr7N"
-              }
-          ],
-          "id": 186,
-          "name": "In Balance",
-          "songId": "5ipYoy8xS7FCAZqGJl0cvg",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/c6cc6e845f91fae62ca6b3c778d92012bcceb768?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2731824bf91fd47b95c69d74603",
-          "popularity": 69,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -17827,31 +17129,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 32,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/5u8vwlOeUEwxaklbfP6cnG",
-                  "id": "5u8vwlOeUEwxaklbfP6cnG",
-                  "name": "Aari Kumar",
-                  "type": "artist",
-                  "uri": "spotify:artist:5u8vwlOeUEwxaklbfP6cnG"
-              }
-          ],
-          "id": 203,
-          "name": "Evermore",
-          "songId": "5S2fFnqCM8jYc4GL6k8dWK",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/425abf554d3a6ed290a580506db65a2c20150c28?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273387c5c50c11b2e1f6a6f56a8",
-          "popularity": 69,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -17977,31 +17255,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 70,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/3OswQADkQvdWSqFtNH2YqQ"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/3OswQADkQvdWSqFtNH2YqQ",
-                  "id": "3OswQADkQvdWSqFtNH2YqQ",
-                  "name": "Santana Ruiz",
-                  "type": "artist",
-                  "uri": "spotify:artist:3OswQADkQvdWSqFtNH2YqQ"
-              }
-          ],
-          "id": 177,
-          "name": "Liquid Rainbow",
-          "songId": "3ex8tsDC5KYifvmmoxc3il",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/41a213149e29bbc67a3d0287708a6f863e885969?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273a26a2d32f07195f04964c591",
-          "popularity": 51,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -18077,31 +17331,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 48,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/5lIaD8O0ZoUIS3aybgfyeO",
-                  "id": "5lIaD8O0ZoUIS3aybgfyeO",
-                  "name": "Haraldur Bergljót",
-                  "type": "artist",
-                  "uri": "spotify:artist:5lIaD8O0ZoUIS3aybgfyeO"
-              }
-          ],
-          "id": 197,
-          "name": "Collectively",
-          "songId": "5sUoXvIj0QKfsGRAtU8NAk",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/1cd232e8a482c2be224a7240237b7c1061c140f1?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273a8b0c3c6adafb74f04179f3c",
-          "popularity": 49,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -18327,56 +17557,8 @@ app.get("/songs", (req, res)=>{
           "popularity": 64,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/5EWTPC3fheVTv9t74wfwPV"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/5EWTPC3fheVTv9t74wfwPV",
-                  "id": "5EWTPC3fheVTv9t74wfwPV",
-                  "name": "Drop To Drop",
-                  "type": "artist",
-                  "uri": "spotify:artist:5EWTPC3fheVTv9t74wfwPV"
-              }
-          ],
-          "id": 220,
-          "name": "Mystery Sky",
-          "songId": "0U9ixnjG3qdi35doySolAj",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/093b37ede02b66681d0612f030008ec278ec2170?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2730b4e141ae6f2a81288aa62c7",
-          "popularity": 65,
-          "explicit": false
-      },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/4rwOqhIQpWyk3Tx4GbiqMw",
-                  "id": "4rwOqhIQpWyk3Tx4GbiqMw",
-                  "name": "Literrain",
-                  "type": "artist",
-                  "uri": "spotify:artist:4rwOqhIQpWyk3Tx4GbiqMw"
-              }
-          ],
-          "id": 225,
-          "name": "Garasia Rain Forest",
-          "songId": "0I42DRVbtMJr0bLEO6ZQB6",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/1fb6554d714e9e854ad47506295ba36d68c00aab?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2737fb9aca412efe9418ad010ac",
-          "popularity": 70,
-          "explicit": false
-      },
+      
+      
       {
           "artists": [
               {
@@ -18402,66 +17584,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 30,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/50UsCuKy9vTLpEhsVSmqu0"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/50UsCuKy9vTLpEhsVSmqu0",
-                  "id": "50UsCuKy9vTLpEhsVSmqu0",
-                  "name": "Silvia Arazi",
-                  "type": "artist",
-                  "uri": "spotify:artist:50UsCuKy9vTLpEhsVSmqu0"
-              }
-          ],
-          "id": 234,
-          "name": "Primer Paso: Elevar las Vibraciones",
-          "songId": "2zAXDIF5ui9YJj5u3L1mzp",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/ad6ea55695bf8a67eb9356c0c65595124ecef4b4?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2739233feb52be372e2f8497536",
-          "popularity": 29,
-          "explicit": false
-      },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/1HgoOuZod8eiyQcMPfltWt"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/1HgoOuZod8eiyQcMPfltWt",
-                  "id": "1HgoOuZod8eiyQcMPfltWt",
-                  "name": "MusicoterapiaTeam",
-                  "type": "artist",
-                  "uri": "spotify:artist:1HgoOuZod8eiyQcMPfltWt"
-              },
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/5FSP2F93BC2SHVTJndw2ZW"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/5FSP2F93BC2SHVTJndw2ZW",
-                  "id": "5FSP2F93BC2SHVTJndw2ZW",
-                  "name": "Sada Viveka",
-                  "type": "artist",
-                  "uri": "spotify:artist:5FSP2F93BC2SHVTJndw2ZW"
-              }
-          ],
-          "id": 239,
-          "name": "Meditación Atención Consciente",
-          "songId": "1GX2xaz7wxt087fPSanoiR",
-          "type": "song",
-          "audioPreview": null,
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2732c343ad25a791b9f1f244c41",
-          "popularity": 0,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -18737,56 +17860,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 76,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/7885SjDRQfxBJ8MTfomwHz"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/7885SjDRQfxBJ8MTfomwHz",
-                  "id": "7885SjDRQfxBJ8MTfomwHz",
-                  "name": "Tonerre",
-                  "type": "artist",
-                  "uri": "spotify:artist:7885SjDRQfxBJ8MTfomwHz"
-              }
-          ],
-          "id": 221,
-          "name": "Pluie légère et tonnerre",
-          "songId": "1SAvBx0Uzm0UQz6u5J85M9",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/53c1fcafbc2f987c18b69e208f33ceeefd8de675?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b27341c39d7a7253ed39beb5d1f5",
-          "popularity": 59,
-          "explicit": false
-      },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/0fHeyixPnac66k5oBPclVW",
-                  "id": "0fHeyixPnac66k5oBPclVW",
-                  "name": "Rainded",
-                  "type": "artist",
-                  "uri": "spotify:artist:0fHeyixPnac66k5oBPclVW"
-              }
-          ],
-          "id": 226,
-          "name": "Dreamy Rain",
-          "songId": "0oSU0oQ4xp3H6sMh1In9W8",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/a6b51965dc335b65d651df85b50986de3380d19f?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2737d876c5a3c8c1585c86512e9",
-          "popularity": 75,
-          "explicit": false
-      },
+    
       {
           "artists": [
               {
@@ -19062,31 +18136,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 68,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/3WiLG8IMyo00LP5Yqb8yUG"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/3WiLG8IMyo00LP5Yqb8yUG",
-                  "id": "3WiLG8IMyo00LP5Yqb8yUG",
-                  "name": "Electricality",
-                  "type": "artist",
-                  "uri": "spotify:artist:3WiLG8IMyo00LP5Yqb8yUG"
-              }
-          ],
-          "id": 213,
-          "name": "Wet Weather",
-          "songId": "5hf4IrzBngV1tdtDKDzt7a",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/c036702c092dbbc94ba66fb36c8e17cd28e0f611?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273a1e317c5d8d1e48105942f63",
-          "popularity": 65,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -19112,106 +18162,8 @@ app.get("/songs", (req, res)=>{
           "popularity": 51,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/2uliIyMyLnG5zT7gV095uG"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/2uliIyMyLnG5zT7gV095uG",
-                  "id": "2uliIyMyLnG5zT7gV095uG",
-                  "name": "Skyscration",
-                  "type": "artist",
-                  "uri": "spotify:artist:2uliIyMyLnG5zT7gV095uG"
-              }
-          ],
-          "id": 223,
-          "name": "Thunder Flow",
-          "songId": "1r5Ep4NrQFWD6mrGmW9jzB",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/1c56306f01df33bd3f2c25a7a3ecddcc2a4c23c2?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2730d50715d37467bf1670a2862",
-          "popularity": 61,
-          "explicit": false
-      },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/0YpSO5vQhOKSI0ZEyhRRCj"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/0YpSO5vQhOKSI0ZEyhRRCj",
-                  "id": "0YpSO5vQhOKSI0ZEyhRRCj",
-                  "name": "Nicolas Fuentes",
-                  "type": "artist",
-                  "uri": "spotify:artist:0YpSO5vQhOKSI0ZEyhRRCj"
-              }
-          ],
-          "id": 228,
-          "name": "Meditación guiada: Alivio de la ansiedad - Pad y ondas de playa",
-          "songId": "3AwM5kkgyHfvMO3lRYIJQZ",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/a8dba427e3af9ae94f238afc27321bd1a1eae69d?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273853317cd87c131c73e959452",
-          "popularity": 29,
-          "explicit": false
-      },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/0YpSO5vQhOKSI0ZEyhRRCj"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/0YpSO5vQhOKSI0ZEyhRRCj",
-                  "id": "0YpSO5vQhOKSI0ZEyhRRCj",
-                  "name": "Nicolas Fuentes",
-                  "type": "artist",
-                  "uri": "spotify:artist:0YpSO5vQhOKSI0ZEyhRRCj"
-              }
-          ],
-          "id": 233,
-          "name": "Meditación guiada: Cómo lidiar con las emociones negativas - Pad y ondas de playa",
-          "songId": "5bNxCyVfNNSJSl6YNiRzKD",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/48aa5fcef201ce0edbcfed27521dd9e7e3d49681?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2735083ef7fd4e18586805c6eb1",
-          "popularity": 25,
-          "explicit": false
-      },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/2OEH6feU0Fe2siPG00qwIg"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/2OEH6feU0Fe2siPG00qwIg",
-                  "id": "2OEH6feU0Fe2siPG00qwIg",
-                  "name": "Naty Franzoni",
-                  "type": "artist",
-                  "uri": "spotify:artist:2OEH6feU0Fe2siPG00qwIg"
-              }
-          ],
-          "id": 238,
-          "name": "Meditación para calmar rápidamente el estrés",
-          "songId": "5UOfLQdVkRMlnROo1qF2kG",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/d7019a3d3b1bb694ee0659e04804e14b446fea72?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b27315a2d5963e1ca42ccf4eb838",
-          "popularity": 28,
-          "explicit": false
-      },
+    
+      
       {
           "artists": [
               {
@@ -19512,31 +18464,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 48,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/1S5E0AilcCGAl0KnP1woIH"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/1S5E0AilcCGAl0KnP1woIH",
-                  "id": "1S5E0AilcCGAl0KnP1woIH",
-                  "name": "Vædret",
-                  "type": "artist",
-                  "uri": "spotify:artist:1S5E0AilcCGAl0KnP1woIH"
-              }
-          ],
-          "id": 224,
-          "name": "Pluie tropicale",
-          "songId": "3PCELNifmPZJVtvIbwxpuD",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/fcb6d7ce8772162a5c73054e05c641c1fbd95309?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273f45073a697e298446efd2eb6",
-          "popularity": 56,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -19562,31 +18490,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 28,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/3lbH6noLPe7Pn1ryAbtBBq"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/3lbH6noLPe7Pn1ryAbtBBq",
-                  "id": "3lbH6noLPe7Pn1ryAbtBBq",
-                  "name": "Brahma Kumaris",
-                  "type": "artist",
-                  "uri": "spotify:artist:3lbH6noLPe7Pn1ryAbtBBq"
-              }
-          ],
-          "id": 235,
-          "name": "Autoestima",
-          "songId": "24J4c7uncyA8iLvuuGXJfo",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/3b802957db40efd04ac1b728bacf1988ea00f0d5?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b27330563d0ff56bf852ce73101a",
-          "popularity": 25,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -19862,56 +18766,7 @@ app.get("/songs", (req, res)=>{
           "popularity": 30,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/50UsCuKy9vTLpEhsVSmqu0"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/50UsCuKy9vTLpEhsVSmqu0",
-                  "id": "50UsCuKy9vTLpEhsVSmqu0",
-                  "name": "Silvia Arazi",
-                  "type": "artist",
-                  "uri": "spotify:artist:50UsCuKy9vTLpEhsVSmqu0"
-              }
-          ],
-          "id": 232,
-          "name": "Saltar",
-          "songId": "2y6ndb9KkibIv7jQdF3zSn",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/63c73e5ac342138e8df4c061552ed7f332efc0fa?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2731307bc4a80361ad6fcc63307",
-          "popularity": 25,
-          "explicit": false
-      },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/1iEKKF94iQfqYJa6JfXsmE"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/1iEKKF94iQfqYJa6JfXsmE",
-                  "id": "1iEKKF94iQfqYJa6JfXsmE",
-                  "name": "Fernanda Roig",
-                  "type": "artist",
-                  "uri": "spotify:artist:1iEKKF94iQfqYJa6JfXsmE"
-              }
-          ],
-          "id": 236,
-          "name": "Intenciones de comenzar el día",
-          "songId": "4n7ecXMpRuJJ3TFRaE1DlU",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/e8b2890821f6066e5be2f45ab4394eb1e8456915?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": null,
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b273c246a7e270a41e3d628fcd3a",
-          "popularity": 24,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -21325,7 +20180,7 @@ app.get("/songs", (req, res)=>{
           "songId": "2PpruBYCo4H7WOBJ7Q2EwM",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/d24b3c4135ced9157b0ea3015a6bcc048e0c2e3a?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Outkast+-+Hey+Ya!+(Official+HD+Video).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367",
@@ -22190,38 +21045,14 @@ app.get("/songs", (req, res)=>{
           "songId": "0frKt739Ov9vvKS3JRu5Vi",
           "type": "song",
           "audioPreview": null,
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Perfect+Day+(Chris+Lord+Alge+Mix).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b273a579c825e800b17fdebf8093",
           "popularity": 58,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/6tNZHg8DS7zzXnIxp3ZTEP",
-                  "id": "6tNZHg8DS7zzXnIxp3ZTEP",
-                  "name": "Play",
-                  "type": "artist",
-                  "uri": "spotify:artist:6tNZHg8DS7zzXnIxp3ZTEP"
-              }
-          ],
-          "id": 394,
-          "name": "Us Against the World",
-          "songId": "7ID5MLSB71awNzjI7jyojG",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/21acaf3d9b6cb8488ba0bb74ef37f15c35a9250b?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b2730d3e20810daee882068cbc6b",
-          "popularity": 48,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -22240,7 +21071,7 @@ app.get("/songs", (req, res)=>{
           "songId": "47BBI51FKFwOMlIiX6m8ya",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/4eec31d974fd622ac7858affd9759f2017dd87e4?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Backstreet+Boys+-+I+Want+It+That+Way+(Official+HD+Video).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b",
@@ -22520,48 +21351,14 @@ app.get("/songs", (req, res)=>{
           "songId": "69Zl2MdeQE8twZdiMXJXxZ",
           "type": "song",
           "audioPreview": null,
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ultimate+(From+'Freaky+Friday'-Soundtrack+Version).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2735a3ee7b38c277cfbe6a3c7aa",
           "popularity": 58,
           "explicit": false
       },
-      {
-          "artists": [
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
-                  "id": "0EmeFodog0BfCgMzAIvKQp",
-                  "name": "Shakira",
-                  "type": "artist",
-                  "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
-              },
-              {
-                  "external_urls": {
-                      "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-                  },
-                  "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
-                  "id": "7aBzpmFXB4WWpPl2F7RjBe",
-                  "name": "Wyclef Jean",
-                  "type": "artist",
-                  "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
-              }
-          ],
-          "id": 392,
-          "name": "Hips Don't Lie (feat. Wyclef Jean)",
-          "songId": "3ZFTkvIE7kyPt6Nu3PEa7V",
-          "type": "song",
-          "audioPreview": "https://p.scdn.co/mp3-preview/374b492571c9ba59c2c4b455ab79ee7501adab93?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
-          "deleted": false,
-          "AlbumId": null,
-          "image": "https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa",
-          "popularity": 88,
-          "explicit": false
-      },
+      
       {
           "artists": [
               {
@@ -22830,7 +21627,7 @@ app.get("/songs", (req, res)=>{
           "songId": "11dxtPJKR4E0wlSr0A0t47",
           "type": "song",
           "audioPreview": null,
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Aly+%26+AJ+-+Potential+Breakup+Song+Explicit+(Official+Audio).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2739642e82608c68ebc941755de",
@@ -22855,7 +21652,7 @@ app.get("/songs", (req, res)=>{
           "songId": "7lQ8MOhq6IN2w8EYcFNSUk",
           "type": "song",
           "audioPreview": null,
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Eminem+-+Without+Me+(Official+Music+Video).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
@@ -22880,7 +21677,7 @@ app.get("/songs", (req, res)=>{
           "songId": "0H9WU0OIXPpbOVgzzOanXb",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/a7718f2e0bdad78f08cd7c9f3240ddb8374a5f32?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/BM+-+Ni+Una+Ni+Dos+(Video+Oficial).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2732e719c605f8d5be0633611a6",
@@ -23075,7 +21872,7 @@ app.get("/songs", (req, res)=>{
           "songId": "6naxalmIoLFWR0siv8dnQQ",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/66a5cf0f69b1bb1e8930821881b71756151c5f68?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Britney+Spears+-+Oops!...+I+Did+It+Again+(Lyrics).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6",
@@ -23100,7 +21897,7 @@ app.get("/songs", (req, res)=>{
           "songId": "71V89tJj9CboDyzncO6ZN2",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/7e51de1d60fea33b6932a65b33baafecd61a2ec7?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Paris+Hilton+-+Stars+Are+Blind+(Official+Music+Video).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b273442533891bd8dc4c1ce79049",
@@ -23145,7 +21942,7 @@ app.get("/songs", (req, res)=>{
           "songId": "5rb9QrpfcKFHM1EUbSIurX",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/1eca1cb525c2b0df2ecba52f1105f139323e09a2?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Usher+-+Yeah!+(Official+Video)+ft.+Lil+Jon%2C+Ludacris.mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da",
@@ -23180,7 +21977,7 @@ app.get("/songs", (req, res)=>{
           "songId": "5FWQLEX0lavdxiWGBNkBQ4",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/3b35fc107fae23e8d7f7fc25daa984b73138247e?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Tiago+PZK%2C+TINI+-+Me+Entere%CC%81+(Official+Video).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6",
@@ -23275,7 +22072,7 @@ app.get("/songs", (req, res)=>{
           "songId": "1Hs1uUl8o2VtDp1DABFq0O",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/5bbdd15509b10d1b62cf5aa43500255754e2096b?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Los+Del+Espacio+-+LIT+killah%2C+Duki%2C+Emilia%2C+Tiago+PZK%2C+FMK%2C+Rusherking%2C+Maria+Becerra%2C+Big+One.mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b27352a52eac3761e2133bd0f57a",
@@ -23415,7 +22212,7 @@ app.get("/songs", (req, res)=>{
           "songId": "5bGmuxShUba9maPswDnhCs",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/e53424c96b8572f0680c82f90994e99ef4bc40b3?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Christina+Aguilera+What+a+Girl+Wants.mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b273f89996e214be1763b2a9e948",
@@ -23440,7 +22237,7 @@ app.get("/songs", (req, res)=>{
           "songId": "7J1S5n6Kn4wZEu6xrBT0gk",
           "type": "song",
           "audioPreview": null,
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/What+Dreams+Are+Made+Of.mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2739f64e3663701c381b8b37e4f",
@@ -23465,7 +22262,7 @@ app.get("/songs", (req, res)=>{
           "songId": "0HPD5WQqrq7wPWR7P7Dw1i",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/ea95bec21bd6c4979cc91f5d5528b533d879905c?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ke%24ha+-+TiK+ToK+(Official+HD+Video).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c",
@@ -23500,7 +22297,7 @@ app.get("/songs", (req, res)=>{
           "songId": "6CIMoDfTsvFVGhFi3v9Izn",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/39a731b8dcf41371a6f764e3e6e4b23d821bdd4b?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/LUCK+RA-+MISSION+15+-+Alan+Gomez.mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2731ff540ce0b6ebd31b8c6a462",
@@ -23535,7 +22332,7 @@ app.get("/songs", (req, res)=>{
           "songId": "7xX7bER73YZSE4m76OpMXV",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/0b407a95ed1f3a608024ab2cbea0fdf04df808e8?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/FMK%2C+Emilia+-+Salgo+a+Bailar+(Official+Video).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2733c70172e31f35f084e1a8fae",
@@ -23685,7 +22482,7 @@ app.get("/songs", (req, res)=>{
           "songId": "2gam98EZKrF9XuOkU13ApN",
           "type": "song",
           "audioPreview": null,
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Nelly+Furtado+-+Promiscuous+(Official+Music+Video)+ft.+Timbaland.mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
@@ -23720,7 +22517,7 @@ app.get("/songs", (req, res)=>{
           "songId": "1PSlMgsJ0V7pUeumk13fbs",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/162e688ae1e6db7622bf15bd482abab4b91cf4d5?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Tiago+PZK%2C+ZECCA+-+Asqueroso+(Official+Video).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2733d4893e9b9c84d0b28fdb7b5",
@@ -23745,7 +22542,7 @@ app.get("/songs", (req, res)=>{
           "songId": "3WndNMJo029mMO64l9hGFm",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/bf0cd37d368a25065f88d734bb4c6c2ddf1767fd?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/MESITA+-+DALE+MECHA+(Video+Oficial).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93",
@@ -23880,7 +22677,7 @@ app.get("/songs", (req, res)=>{
           "songId": "5w7RsSgxxBwdVTSyQDj8Bi",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/575c3860ffaccd444d3c63dfdc2d38e0e4e371e4?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/PA+ROMPER+LA+DISCOTEKA+-+The+La+Planta%2C+BM%2C+Alejo+Isakk%2C+Locura+Mix+(+Video+Oficial+).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344",
@@ -23925,7 +22722,7 @@ app.get("/songs", (req, res)=>{
           "songId": "7LknbZPcWVDMb6VLDI01MY",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/dae7809fd29c52811e4400ecfbf61766b8a209f5?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/DUKI%2C+KHEA%2C+Bizarrap+-+Remember+Me+(Video+Oficial)+(1).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b273745c8239aecb6d70816e747c",
@@ -23970,7 +22767,7 @@ app.get("/songs", (req, res)=>{
           "songId": "2iIBpwP4FyQ95xgVail3yr",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/3bca60d71ee79d31a0f2bf4ca4adf5c70a4c909c?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Emilia%2C+Ludmilla%2C+Zecca+-+No_se_ve.mp3+(Official+Video).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c",
@@ -24055,7 +22852,7 @@ app.get("/songs", (req, res)=>{
           "songId": "2bNCiY24Eh4saMcc23bvUN",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/9f66b46a88fc763219226551c1736104328274da?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Maria+Becerra%2C+Ra%CC%81faga+-+ADIO%CC%81S+(Live+Session).mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739",
@@ -24205,7 +23002,7 @@ app.get("/songs", (req, res)=>{
           "songId": "3tiJUOfAEqIrLFRQgGgdoY",
           "type": "song",
           "audioPreview": "https://p.scdn.co/mp3-preview/38b8f2c063a896c568b9741dcd6e194be0a0376b?cid=0a5a810744fa4b2291120b509d465eab",
-          "audioFull": "",
+          "audioFull": "https://apispotify.s3.sa-east-1.amazonaws.com/Ke+Personajes%2C+FMK%2C+Big+One+-+Un+Finde+-+CROSSOVER+%232.mp3",
           "deleted": false,
           "AlbumId": null,
           "image": "https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3",
